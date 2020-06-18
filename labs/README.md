@@ -4,11 +4,11 @@
 
 ## 
 
-| Order | Lesson                                  |
-| ----: | :-------------------------------------- |
-|     1 | [Numpy](labs/numpy.ipynb)               |
-|     2 | [Pandas](labs/pandas.ipynb)             |
-|     3 | [Projects](labs/intro-to-sklearn.ipynb) |
+| Order | Lesson                             |
+| ----: | :--------------------------------- |
+|     1 | [Numpy](numpy.ipynb)               |
+|     2 | [Pandas](pandas.ipynb)             |
+|     3 | [Projects](intro-to-sklearn.ipynb) |
 
 
 
