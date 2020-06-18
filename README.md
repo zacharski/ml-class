@@ -25,87 +25,70 @@ The above hours may be subject to change if other times benefit more students. T
 
 ## Expected Outcomes
 
-### JavaScript / Node.JS
-
-JavaScript, often abbreviated JS, is the core programming language of the web, running both in a user's browser and on the backend. It is a high-level, just-in-time compiled language. Node.js is a runtime environment that allows JavaScript to be executed outside of browser typically on the server side.
+### Basic Machine Learning (ML) Techniques
 
 Students should be able to 
 
-* write complex command line programs in JavaScript.
-* write code that executes asynchronously 
-* write a scalable, maintainable, backend server.
-* write code that interacts with a database server
-* test and evaluate code using an industry-standard test environment.
+* architect a scalable ML pipeline
+* run ML jobs on a GPU using Jupyter Notebooks in Colab
+* evaluate different ML models
+* determine the best ML algorithm to use for an application
+* reduce the dimensionality of a dataset
+* develop different linear models to solve classification problems
+* communicate effectively about ML applications (terminology)
 
-### PostgreSQL
-
-PostgreSQL is one of the most popular free and open-source relational database management systems, and is available on wide variety of operating systems. 
-
-Students should be able to
-
-* design and implement databases based on an English description of the data.
-* understand database normalization and design database that meet the normalization requirements.
-* demonstrate a good understanding of SQL including subqueries, joins, and transactions.
-
-
-
-### HTML/CSS
-
-HTML and CSS defines the user interface of a web application. Understanding both are are of major importance to web developers.
+### XGBoost
 
 Students should be able to
 
-* Read and write HTML and CSS
-* Utilize semantic tags to provide clear structure to HTML
-* Manage the layout of a complex web page using CSS
+* apply decision tree algorithms to create a classifier
+* use random forest techniques
+* combine a number of weak classifiers into a strong one by using boosting.
+* effectively use the XGBoost algorithm
 
 
 
-## Tasks and Projects
+### Deep Learning
 
-The majority of effort in the course is in working on tasks and project, which have different levels of expected knowledge and independence.
+Students should be able to
+
+* build a simple deep learning system for image classification
+* build CNNs for computer vision
+* pre-process text datasets into a form usable for classification
+* build CNN for text classification
+* adjust hyperparameters to improve performance
 
 
 
-### Tasks
+## Labs and Projects
 
-* Closely mirrors the examples shown in the course videos.
-* Generally the majority of the code is provided for you.
-* Where appropriate, test code is also provided enabling you to get instant feedback.
+The majority of effort in the course is in working on labs and project, which have different levels of expected knowledge and independence.
+
+
+
+### Labs
+
+* In the form of Jupyter Notebook tutorials which provide detailed explanations and sample executable code. 
 * You are to:
   * write a small amount of code to complete the task
-  * evaluate what you have done by running the tests
+  * answer any non-coding questions the Notebook may ask.
 
 
 
 ### Projects
 
-* Follows examples shown in the course videos.
-* Builds off of concepts and skills you learned completing prerequisite tasks.
-* Project definition provides either
-  * an API specification and test file
-  * a video showing an example of a completed project
+* Follows examples shown in the course videos and in the labs.
+* builds off of concepts and skills you learned completing the labs.
+* Project definition provides 
+  * a dataset
+  * a short problem description
 * You are to 
-  * design and create the database to support the project
-  * write  the Javascript code to implement the specification
-  * test and evaluate you code.
-  * move you code to a production environment.
-
-Both tasks and projects are evaluated as to whether the code works or not (passes the necessary tests). If it does not you will fix your code and resubmit. You can submit as many times as necessary to pass the tests. The test set that is used to evaluate your code may be larger than that given to you to aid you in development. For some projects there are optional parts for which you will get additional points.
-
-You must complete the prerequisite tasks before starting a project and you cannot demo more than 2 projects per week.
+  * design and create the machine learning algorithm used to solve the problem.
+  * write  the code in a Jupyter Notebook
+  * test and evaluate your solution.
+  * save your notebook to Github..
 
 
-
-## Core Competency Task
-
-Often when you are applying for a job, you are given a timed programming task. The core competency task is designed to help you prepare for this. The tasks involves writing a backend for a web service in JavaScript and PostgreSQL. You can take the test at any time (after you meet the prerequisites), but once you start you will have four hours to complete it.
-
-
-
-## Oral Exam (optional)
-
-The oral exam takes the form of a technical job interview related to the topics covered in the course. It is conducted over Zoom and will be around 10-20 minutes long. You can take the exam anytime after you meet the prerequisites.
 
 ## Mastery Learning
 
