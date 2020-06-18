@@ -113,7 +113,7 @@ This course is work at your own pace. Other courses you might be taking have fix
 | Order | Lesson                           |
 | ----: | :------------------------------- |
 |     1 | [JumpStart](jumpstart/readme.md) |
-|     2 | [Tasks](tasks/readme.md)         |
+|     2 | [Labs](labs/readme.md)           |
 |     3 | [Projects](projects/readme.md)   |
 
 
