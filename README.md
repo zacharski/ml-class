@@ -126,23 +126,23 @@ Again, the class is work-at-your-own pace, but we provide a suggested schedule b
 
 ## Week-by-Week 
 
-| Week | Date   | Unit          | Topics                                      |
-| ---: | :----- | :------------ | :------------------------------------------ |
-|    1 | 24 Aug | Intro         | Intro, MVC, RESTful, Gitlab lab             |
-|    2 | 31 Aug | SQL           | creating and inserting data into a database |
-|    3 | 7 Sep  | SQL           | Update, alter, delete                       |
-|    4 | 14 Sep | JavaScript    | Intro to JavaScript                         |
-|    5 | 21 Sep | JavaScript    | NodeJS, using PostgreSQL with Node          |
-|    6 | 28 Sep | Deployment    | Google Cloud, Nginx reverse proxy           |
-|    7 | 5 Oct  | SQL           | 3NF, joins                                  |
-|    8 | 12 Oct | SQL           | transactions                                |
-|    9 | 19 Oct | JavaScript    | Intro to React and Nextjs                   |
-|   10 | 26 Oct | JavaScript    | Full Stack Web Development                  |
-|   11 | 2 Nov  | JavaScript    | cookies                                     |
-|   12 | 9 Nov  | ElasticSearch | noSQL, Elastic Search                       |
-|   13 | 16 Nov | Projects      | -                                           |
-|   14 | 23 Nov | Projects      | -                                           |
-|   15 | 30 Nov | Projects      | -                                           |
+| Week | Date   | Unit    | Topics                                                       |
+| ---: | :----- | :------ | :----------------------------------------------------------- |
+|    1 | 24 Aug | Intro   | Intro, MVC, Numpy, Pandas labs                               |
+|    2 | 31 Aug | basics  | kNN, sklearn, kNN lab                                        |
+|    3 | 7 Sep  | basics  | regression and linear models                                 |
+|    4 | 14 Sep | basics  | evaluating models.                                           |
+|    5 | 21 Sep | XGBoost | entropy & decision trees                                     |
+|    6 | 28 Sep | XGBoost | random forest, bagging predictors, pasting                   |
+|    7 | 5 Oct  | XGBoost | XGBoost  - First Project                                     |
+|    8 | 12 Oct | DNN     | our first neural network - classifying images                |
+|    9 | 19 Oct | DNN     | Neural Network anatomy , a first look at text classification |
+|   10 | 26 Oct | DNN     | Introduction to Convolutional Neural Networks (CNN)          |
+|   11 | 2 Nov  | DNN     | using pretrained CNNs  Project 2                             |
+|   12 | 9 Nov  | DNN     | CNNs and text classification                                 |
+|   13 | 16 Nov | DNN     | recurrent neural networks (RNN)                              |
+|   14 | 23 Nov | GDL     | generative deep learning                                     |
+|   15 | 30 Nov | GDL     | generative deep learning                                     |
 
 
 
@@ -154,7 +154,7 @@ Again, the class is work-at-your-own pace, but we provide a suggested schedule b
 
 **Laptop**
 
-[Inquiryum’s Backend Developer Fundamentals course ](http://inquiryum.com/)
+[Inquiryum’s Machine Learning Fundamentals Course ](http://inquiryum.com/machine-learning)
 
 
 
