@@ -1,4 +1,4 @@
-# Machine Learning Fundamentals Course
+# cpsc/data 419  Data Mining
 
 
 
