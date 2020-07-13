@@ -92,7 +92,7 @@ The majority of effort in the course is in working on labs and project, which ha
 
 ## Mastery Learning
 
-Traditional classes are time-based learning. You spend a specific amount of time on a topic and then you move on to the next topic. For example, in a traditional programming course you might cover *while* and *for* loops in week 5, take a quiz on them, and then move on to ArrayLists in week 6. Suppose you got a 75% on that quiz in week 5. That means that you did not learn 25% of the material.  Then perhaps in week 10 you take a test on inheritance and get an 80% (you did not master 20% of the material). These gaps in your mastery start adding up, and eventually, in either in some future class or on the job, you hit a wall because your current task requires that you are skilled in areas that you failed to master. 
+Traditional classes are time-based learning. You spend a specific amount of time on a topic and then you move on to the next topic. For example, in a traditional intro Pythonprogramming course you might cover  *for* loops in week 5, take a quiz on them, and then move on to Python dictionaries in week 6. Suppose you got a 75% on that quiz in week 5. That means that you did not learn 25% of the material.  Then perhaps in week 10 you take a test on list comprehensions and get an 80% (you did not master 20% of the material). These gaps in your mastery start adding up, and eventually, in either in some future class or on the job, you hit a wall because your current task requires that you are skilled in areas that you failed to master. 
 
 This class doesn't work like that.
 
@@ -141,8 +141,8 @@ Again, the class is work-at-your-own pace, but we provide a suggested schedule b
 |   11 | 2 Nov  | DNN     | using pretrained CNNs  Project 2                             |
 |   12 | 9 Nov  | DNN     | CNNs and text classification                                 |
 |   13 | 16 Nov | DNN     | recurrent neural networks (RNN)                              |
-|   14 | 23 Nov | GDL     | generative deep learning                                     |
-|   15 | 30 Nov | GDL     | generative deep learning                                     |
+|   14 | 23 Nov | RL      | reinforcement learning                                       |
+|   15 | 30 Nov | RL      | reinforcement learning                                       |
 
 
 
@@ -150,7 +150,7 @@ Again, the class is work-at-your-own pace, but we provide a suggested schedule b
 
 ## **Required materials**
 
-**Google Cloud Account (or equivalent)**
+**[Google Colab Cloud Account](https://colab.research.google.com/notebooks/intro.ipynb)**
 
 **Laptop**
 
@@ -186,17 +186,12 @@ Grading is based on a method developed by Professor Lee Sheldon at Indiana Unive
 
 Here are the ways of earning XP:
 
-* there will be at least 7 tasks. On average each will be worth 20xp
+* there will be at least 10 labs. On average each will be worth 40xp
 
-* there are 6 PostgreSQL projects. Each is worth 100xp
-
-* there is an ElasticSearch project worth 150xp
-
-* the core competency programming challenge is worth 150xp
-
-* the optional oral exam is worth 150xp
+* there are 4 machine learning projects. On average they are each worth 200xp
 
   
+
 
 ## **Accessibility Statement**
 
