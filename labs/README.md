@@ -2,13 +2,18 @@
 
 
 
-## 
+## ML Basics
 
-| Order | Lesson                             |
-| ----: | :--------------------------------- |
-|     1 | [Numpy](numpy.ipynb)               |
-|     2 | [Pandas](pandas.ipynb)             |
-|     3 | [Projects](intro-to-sklearn.ipynb) |
+| Order | Lesson                                         |
+| ----: | :--------------------------------------------- |
+|     1 | [Numpy](numpy.ipynb)                           |
+|     2 | [Pandas](pandas.ipynb)                         |
+|     3 | [kNN and SciKit-Learn](intro-to-sklearn.ipynb) |
+|     4 | [Decision Trees](decision_trees.ipynb)         |
+|   5 | [other stuff](stuff.ipynb) |
+
+## Ensemble Methods
+
 
 
 
