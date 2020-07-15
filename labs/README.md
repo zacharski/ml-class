@@ -10,7 +10,7 @@
 |     2 | [Pandas](pandas.ipynb)                         |
 |     3 | [kNN and SciKit-Learn](intro-to-sklearn.ipynb) |
 |     4 | [Decision Trees](decision_trees.ipynb)         |
-|   5 | [other stuff](stuff.ipynb) |
+|   5 | [Working With Data](WorkingWithData.ipynb) |
 
 ## Ensemble Methods
 
