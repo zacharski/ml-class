@@ -1,5 +1,13 @@
 # cpsc/data 419  Data Mining
 
+#### essentials
+
+Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041
+
+[Experience Point Sheet](https://docs.google.com/spreadsheets/d/1UGGA8cjL4WEZ9N8AQGe8NW4So3p8aI_Umiww-Z3C8SY/edit?usp=sharing)
+
+ the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) 
+
 
 
 
@@ -188,11 +196,11 @@ Grading is based on a method developed by Professor Lee Sheldon at Indiana Unive
 
 Here are the ways of earning XP:
 
-* there will be around 15 labs. On average each will be worth 25xp
+* there will be around 15 labs. On average each will be worth 22xp
 
 * there are 5 machine learning projects. On average they are each worth 125xp
 
-* there are 2 short review papers to write. Each is worth 75xp
+* there are 2 short review papers to write. Each is worth 50xp
 
   
 
