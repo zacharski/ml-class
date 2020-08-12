@@ -21,7 +21,7 @@ See the description of the study groups on the [What to expect page](jumpstart/w
 
 ### Instructor availability
 
-I will be sitting at my laptop on the Slack channel Monday through Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond  immediately unless I am helping another student. Excluding those times, my next level of availability is Monday through Thursday from 11am to 4pm. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand.
+I will be sitting at my laptop on the Slack channel Monday through Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond  immediately unless I am helping another student. Excluding those times, my next level of availability is Monday through Thursday from 11am to 4pm. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage.
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
 
@@ -49,8 +49,6 @@ Students should be able to
 * use random forest techniques
 * combine a number of weak classifiers into a strong one by using boosting.
 * effectively use the XGBoost algorithm
-
-
 
 ### Deep Learning
 
@@ -100,7 +98,7 @@ Traditional classes are time-based learning. You spend a specific amount of time
 
 This class doesn't work like that.
 
-In contrast to time-based learning,  in mastery learning you stay on the topic until you master it. You work at your own pace. This online class is based on this approach.  You stay on a topic until you master it.  The lectures are a set of videos (mostly screencasts) that you can watch at anytime. If the material is easy for you, you can speed up the videos and watch them at 1.5 speed. If you find the material challenging, you can rewatch the videos, google for more information, interact with other learners on the Slack channel, or request a private Zoom conference with the instructor. 
+In contrast to time-based learning,  in mastery learning you stay on the topic until you master it. You work at your own pace. This online class is based on this approach.  You stay on a topic until you master it.  As I mentioned, the lectures are a set of videos (mostly screencasts) that you can watch at anytime. If the material is easy for you, you can speed up the videos and watch them at 1.5 speed. If you find the material challenging, you can rewatch the videos, google for more information, interact with other learners on the Slack channel, or in a study group. 
 
 Obviously, the work-at-your-own pace approach will collide with the end of the semester and there will be some material that you will not cover. The course is designed so that the essential core information is presented first, to enable you to develop solid foundational skills with no gaps. 
 
@@ -124,7 +122,7 @@ This course is work at your own pace. Other courses you might be taking have fix
 
 
 
-Again, the class is work-at-your-own pace, but we provide a suggested schedule below.
+Again, the class is work-at-your-own pace, but I provide a suggested schedule below.
 
 
 
