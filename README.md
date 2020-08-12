@@ -9,15 +9,19 @@ This course provides an introduction to machine learning with an emphasis on XGB
 
 ### An asynchronous online class
 
-This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on  the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) to get assistance from me or your classmates. If you are really stuck we can arrange a screen sharing Zoom call. 
+This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on  the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) to get assistance from me or your classmates. 
 
 The advantages of this approach is that it allows you great flexibility in when you want to work on the material and for how long. And, as described below under mastery learning, it allows you to work at your own pace.
+
+### Optional Zoom Study Groups
+
+See the description of the study groups on the [What to expect page](jumpstart/what_to_expect.md).
 
 
 
 ### Instructor availability
 
-I will be sitting at my laptop on the Slack channel on Monday and Wednesdays from 10am until 2pm and Tuesday, Thursday from 12:30 until 1:45pm, ET. This means that if you message me, I will respond  immediately unless I am helping another student. Excluding those times, my next level of availability is Monday through Thursday from 11am to 4pm. My average response time during that period is 10 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand.
+I will be sitting at my laptop on the Slack channel Monday through Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond  immediately unless I am helping another student. Excluding those times, my next level of availability is Monday through Thursday from 11am to 4pm. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand.
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
 
@@ -266,4 +270,4 @@ The amendments to the Computer Science Department policy are as follows (the num
 
 ### Avatar names, pseudonyms, noms de plume
 
-During the first week of class you will need to fill out the [Avatar Form](https://forms.gle/28wJgMR7sGXBGU9h7) for your avatar name, pseudonym, whatever. This is the name that will appear on the Experience Point Google Spreadsheet that will be viewable by everyone in the class. If you wish to remain anonymous, don’t share your avatar name with anyone. To further protect the anonymity of those who wish to remain anonymous, the spreadsheet will also be populated by fictitious avatar names.
+During the first week of class you will need to fill out the [Avatar Form](https://forms.gle/GrBgG96H92NQP7kk9) for your avatar name, pseudonym, whatever. This is the name that will appear on the Experience Point Google Spreadsheet that will be viewable by everyone in the class. If you wish to remain anonymous, don’t share your avatar name with anyone. To further protect the anonymity of those who wish to remain anonymous, the spreadsheet will also be populated by fictitious avatar names.
