@@ -8,11 +8,10 @@ These lessons will help you get started with the course
 
 Order | Lesson
 ----: | :---
-1 | [Learning Styles](learning-styles.md)
-2 | [Effective Internet Searching](internet-searching.md)
-3 | [Terminal](terminal.md)
-4 | [Environment Setup](environment-setup.md)
-5 | [Gitlab lab](gitlablab.md)
+1 | [What to expect](what_to_expect.md)
+2 | [Learning Styles](learning-styles.md)
+3 | [Effective Internet Searching](internet-searching.md)
+4 | [Gitlab lab](gitlablab.md)
 
 
 
