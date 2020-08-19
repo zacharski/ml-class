@@ -2,11 +2,14 @@
 
 #### essentials
 
-Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041
-
-[Experience Point Sheet](https://docs.google.com/spreadsheets/d/1UGGA8cjL4WEZ9N8AQGe8NW4So3p8aI_Umiww-Z3C8SY/edit?usp=sharing)
-
- the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) 
+\# | Resource
+---: | :---
+1 | [The current version of the syllabus](https://github.com/zacharski/ml-class)
+2 | Welcome video
+3 | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)
+4 | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041
+5 |[Experience Point Sheet](https://docs.google.com/spreadsheets/d/1UGGA8cjL4WEZ9N8AQGe8NW4So3p8aI_Umiww-Z3C8SY/edit?usp=sharing)
+5 | the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) 
 
 
 
@@ -120,11 +123,11 @@ This course is work at your own pace. Other courses you might be taking have fix
 
 ## The course material
 
-| Order | Lesson                           |
-| ----: | :------------------------------- |
-|     1 | [JumpStart](jumpstart/readme.md) |
-|     2 | [Labs](labs/README.md)           |
-|     3 | [Projects](projects/readme.md)   |
+| Order | Lesson                 |
+| ----: | :--------------------- |
+|     1 | [JumpStart](jumpstart) |
+|     2 | [Labs](labs)           |
+|     3 | [Projects](projects)   |
 
 
 
