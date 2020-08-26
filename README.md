@@ -20,7 +20,7 @@ This course provides an introduction to machine learning with an emphasis on XGB
 
 ### An asynchronous online class
 
-This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on  the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) to get assistance from me or your classmates. 
+This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on  the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [UMW Deep Learning Slack workspace](https://umw-deep-learning.slack.com/) to get assistance from me or your classmates. 
 
 The advantages of this approach is that it allows you great flexibility in when you want to work on the material and for how long. And, as described below under mastery learning, it allows you to work at your own pace.
 
