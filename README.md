@@ -8,7 +8,7 @@
 2 | [Welcome video](https://youtu.be/CT06ST4xLUk) 
 3 | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)
 4 | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041
-5 |[Experience Point Sheet](https://docs.google.com/spreadsheets/d/1UGGA8cjL4WEZ9N8AQGe8NW4So3p8aI_Umiww-Z3C8SY/edit?usp=sharing)
+5 |[Experience Point Sheet](https://docs.google.com/spreadsheets/d/1tnEAvVTUxw9RWJmdN7buUcujCJPIOIL9F6Zq2Lij1Bc/edit?usp=sharing)
 5 | the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv) 
 
 
