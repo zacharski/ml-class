@@ -34,6 +34,12 @@ Once you do all this preprocessing, you may want to just build a basic classifie
 
 Projects are intentionally vague. I want you to engage your brain and not simply convert a set of instructions I write, to code. Again, this is your chance to explore a dataset and experiment with techniques from the labs.
 
+#### Submitting your code
+
+You should save your completed Python notebook to your github repository and notify me by [filling our this form](https://forms.gle/biRtucrbnKaGTfAe6)
+
+## 
+
 
 | Order | Lesson                                         |
 | ----: | :--------------------------------------------- |
