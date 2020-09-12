@@ -15,5 +15,13 @@ You should save your completed code to your github repository and notify me by [
 |     3 | [kNN and SciKit-Learn](intro_to_sklearn.ipynb) |
 |     4 | [Decision Trees](decision_trees.ipynb)         |
 |     5 | [Working With Data](WorkingWithData.ipynb)     |
+|     6 | [Regression](regression.ipynb)                 |
+
+
 
 ## Ensemble Methods
+
+| Order | Lesson                                         |
+| ----: | :--------------------------------------------- |
+|     7 | [Bagging and Pasting](bagging_n_pasting .ipynb)              |
+
