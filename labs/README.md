@@ -21,7 +21,8 @@ You should save your completed code to your github repository and notify me by [
 
 ## Ensemble Methods
 
-| Order | Lesson                                         |
-| ----: | :--------------------------------------------- |
-|     7 | [Bagging and Pasting](bagging_n_pasting .ipynb)              |
+| Order | Lesson                                          |
+| ----: | :---------------------------------------------- |
+|     7 | [Bagging and Pasting](bagging_n_pasting .ipynb) |
+|     8 | [XGBoost](xgboostLab.ipynb)                     |
 

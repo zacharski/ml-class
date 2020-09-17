@@ -41,11 +41,11 @@ You should save your completed Python notebook to your github repository and not
 ## 
 
 
-| Order | Lesson                                         |
-| ----: | :--------------------------------------------- |
-|     1 | [Bach Chorales](Bach.md)                           |
-|     2 | [TBD](pandas.ipynb)                         |
-|     3 | [TBD](intro-to-sklearn.ipynb) |
+| Order | Lesson                                  |
+| ----: | :-------------------------------------- |
+|     1 | [Bach Chorales](Bach.md)                |
+|     2 | [Crate and Barrel](Crate-and-Barrel.md) |
+|     3 | [TBD](intro-to-sklearn.ipynb)           |
 
 
 
