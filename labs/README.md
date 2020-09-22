@@ -23,6 +23,6 @@ You should save your completed code to your github repository and notify me by [
 
 | Order | Lesson                                          |
 | ----: | :---------------------------------------------- |
-|     7 | [Bagging and Pasting](bagging_n_pasting .ipynb) |
+|     7 | [Bagging and Pasting](bagging_n_pasting.ipynb) |
 |     8 | [XGBoost](xgboostLab.ipynb)                     |
 

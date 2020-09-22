@@ -4,8 +4,6 @@
 
 
 
-his example is from [How to Tune the Number and Size of Decision Trees with XGBoost in Python](https://machinelearningmastery.com/tune-number-size-decision-trees-xgboost-python/)
-
 
 
 ![](https://raw.githubusercontent.com/zacharski/ml-class/master/labs/pics/CB_N_00370.jpg)
