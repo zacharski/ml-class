@@ -29,13 +29,13 @@ from sklearn.model_selection import train_test_split
 bach_train_features, bach_test_features, bach_train_labels, bach_test_labels = train_test_split(bFeatures, bLabels, test_size = 0.2, random_state=42)
 ```
 
-this will give everyone the same test set.
+this will give everyone the same test set (`random_state=42` is what enables this)
 
 Bonus:
 
 bonus | criteria
 :---: | :---:
-15 | better than .9 accuracy on `accuracy_score(bach_test_labels, predictions)`
+10 | better than .85 accuracy on `accuracy_score(bach_test_labels, predictions)`
 20 | third best in class
 25 | second best in class
 30 | first in class

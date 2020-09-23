@@ -38,7 +38,7 @@ Projects are intentionally vague. I want you to engage your brain and not simply
 
 You should save your completed Python notebook to your github repository and notify me by [filling our this form](https://forms.gle/biRtucrbnKaGTfAe6)
 
-## 
+
 
 
 | Order | Lesson                                  |
@@ -46,6 +46,19 @@ You should save your completed Python notebook to your github repository and not
 |     1 | [Bach Chorales](Bach.md)                |
 |     2 | [Crate and Barrel](Crate-and-Barrel.md) |
 |     3 | [TBD](intro-to-sklearn.ipynb)           |
+
+
+
+#### XP Grading Rubric
+
+% of xp | rubric
+:---: | :--
+25 | writeup. Is it at least as good as Nadin Tamer's above. 
+50 | code shows you understand the basic concepts
+25 | code shows that you are exploring the options (for example,  looking at different hyperparameters)
+bonus | performance related to baseline code and compared to others in the class
+
+
 
 
 
