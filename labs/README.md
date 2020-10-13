@@ -29,6 +29,6 @@ You should save your completed code to your github repository and notify me by [
 ## Deep Learning
 
 | Order | Lesson |
-| ----- | ------ |                                              |
+| -----: | :------ |                                              |
 | 9    | [A First Look at Deep Learning](A_first_look_at_deep_learning.ipynb) |
 
