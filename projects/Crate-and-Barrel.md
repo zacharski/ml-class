@@ -29,7 +29,7 @@ For this competition, we have provided a dataset with 93 features for more than 
 
 ### Submission
 
-You will submit your solution to Kaggle using the Late Submission button. In your github repository place your code and your Kaggle results (an image is fine). If you code is a Python Jupyter Notebook make sure you have a writeup explaining your solution. If you code is just a source code file, have an additional readme file outlining and discussing your solution.
+You will submit your solution to Kaggle using the Late Submission button. In your github repository place your code and your Kaggle results (an image is fine). If your code is a Python Jupyter Notebook make sure you have a writeup explaining your solution. If your code is just a source code file, have an additional readme file outlining and discussing your solution.
 
 
 
