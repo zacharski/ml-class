@@ -2,7 +2,7 @@
 
 
 
-
+You can work by yourself or with a partner.
 
 
 
