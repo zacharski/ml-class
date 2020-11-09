@@ -45,7 +45,7 @@ You should save your completed Python notebook to your github repository and not
 | ----: | :-------------------------------------- |
 |     1 | [Bach Chorales](Bach.md)                |
 |     2 | [Crate and Barrel](Crate-and-Barrel.md) |
-|     3 | [TBD](intro-to-sklearn.ipynb)           |
+|     3 | [Image Classification](imageclassification.md)           |
 
 
 
