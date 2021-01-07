@@ -2,14 +2,14 @@
 
 #### essentials
 
-|  \# | Resource                                                                                                                       |
-| --: | :----------------------------------------------------------------------------------------------------------------------------- |
-|   1 | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                   |
-|   2 | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                  |
-|   3 | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)       |
-|   4 | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                               |
-|   5 | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/1tnEAvVTUxw9RWJmdN7buUcujCJPIOIL9F6Zq2Lij1Bc/edit?usp=sharing) |
-|   5 | the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv)                                                                       |
+|   \# | Resource                                                     |
+| ---: | :----------------------------------------------------------- |
+|    1 | [The current version of the syllabus](https://github.com/zacharski/ml-class) |
+|    2 | [Welcome video](https://youtu.be/CT06ST4xLUk)                |
+|    3 | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md) |
+|    4 | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041 |
+|    5 | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/17g7N0IZnw6bTnp3vmNm4nfQjyDL3k8erllcU59l-0-s/edit?usp=sharing) |
+|    5 | the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv)     |
 
 ## Course Description
 
@@ -100,7 +100,7 @@ Obviously, the work-at-your-own pace approach will collide with the end of the s
 
 ### Mastery Learning Difficulties
 
-This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. To give you some flexibility but to help you stay focused, there will be both recommended and hard deadlines for each project. For example, one project has a recommended deadline of the fourth week of class and a hard deadline of the eighth week.
+This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **There is a limit of 2 submissions per week**
 
 ## The course material
 
@@ -116,21 +116,20 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 
 | Week | Date   | Unit    | Topics                                                       |
 | ---: | :----- | :------ | :----------------------------------------------------------- |
-|    1 | 24 Aug | Intro   | Intro, MVC, Numpy, Pandas labs                               |
-|    2 | 31 Aug | basics  | kNN, sklearn, kNN lab                                        |
-|    3 | 7 Sep  | basics  | entropy and decision trees                                   |
-|    4 | 14 Sep | basics  | working with data                                            |
-|    5 | 21 Sep | XGBoost | bagging and pasting                                          |
-|    6 | 28 Sep | XGBoost | random forest,                                               |
-|    7 | 5 Oct  | XGBoost | XGBoost - First Project                                      |
-|    8 | 12 Oct | DNN     | our first neural network - classifying images                |
-|    9 | 19 Oct | DNN     | Neural Network anatomy , a first look at text classification |
-|   10 | 26 Oct | DNN     | Introduction to Convolutional Neural Networks (CNN)          |
-|   11 | 2 Nov  | DNN     | using pretrained CNNs Project 2                              |
-|   12 | 9 Nov  | DNN     | CNNs and text classification                                 |
-|   13 | 16 Nov | DNN     | recurrent neural networks (RNN)                              |
-|   14 | 23 Nov | RL      | reinforcement learning                                       |
-|   15 | 30 Nov | RL      | reinforcement learning                                       |
+|    1 | 25 Jan | Intro   | Intro, MVC, Numpy, Pandas labs                               |
+|    2 | 1 Feb  | basics  | kNN, sklearn, kNN lab                                        |
+|    3 | 8 Feb  | basics  | entropy and decision trees                                   |
+|    4 | 15 Feb | basics  | working with data                                            |
+|    5 | 22 Feb | XGBoost | bagging and pasting                                          |
+|    6 | 1 Mar  | XGBoost | random forest,                                               |
+|    7 | 8 Mar  | XGBoost | XGBoost - First Project                                      |
+|    8 | 15 Mar | DNN     | our first neural network - classifying images                |
+|    9 | 22 Mar | DNN     | Neural Network anatomy , a first look at text classification |
+|   10 | 29 Mar | DNN     | Introduction to Convolutional Neural Networks (CNN)          |
+|   11 | 5 Apr  | DNN     | using pretrained CNNs Project 2                              |
+|   12 | 12 Apr | DNN     | CNNs and text classification                                 |
+|   13 | 19 Apr | DNN     | recurrent neural networks (RNN)                              |
+|   14 | 26 Apr | RL      | reinforcement learning                                       |
 
 Deadlines will be announced in the Slack channel.
 
@@ -172,7 +171,6 @@ Here are the ways of earning XP:
 
 - there are 5 machine learning projects. On average they are each worth 125xp
 
-- there are 2 short review papers to write. Each is worth 50xp
 
 ## **Accessibility Statement**
 
