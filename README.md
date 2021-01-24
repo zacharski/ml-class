@@ -116,7 +116,7 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 
 | Week | Date   | Unit    | Topics                                                       |
 | ---: | :----- | :------ | :----------------------------------------------------------- |
-|    1 | 25 Jan | Intro   | Intro, MVC, Numpy, Pandas labs                               |
+|    1 | 25 Jan | Intro   | Intro, Numpy, Pandas labs                                    |
 |    2 | 1 Feb  | basics  | kNN, sklearn, kNN lab                                        |
 |    3 | 8 Feb  | basics  | entropy and decision trees                                   |
 |    4 | 15 Feb | basics  | working with data                                            |
