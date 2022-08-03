@@ -25,29 +25,34 @@ For each pair of videos, there is an associated interactive notebook that covers
 
 The notebooks are designed to be a step-by-step guide to some topic. You will submit the notebook for points. There are approximately 15 of these notebooks.
 
-###  Projects
+### Projects
 
 After we finish a module of these video/notebook topics, you will be working on a project. The projects are underspecified, meaning I don't give you detailed instructions of what to do. You can see the instructions to the first project [here](https://github.com/zacharski/ml-class/blob/master/projects/Bach.md). It is your chance to apply what you learned in the module. These are also submitted for points. 
 
-### Review Papers
+### 
 
-In your professional career you will learn new techniques by examining the work of others. To help you get started with this you will be looking at Jupyter notebooks others have created to solve various problems. You will pick one of these and write a 2 page paper about it. More details will be provided. The requirement is to do two of these papers.
+## Slack check-in
+
+Twice per week one of our Slackbots in our Slack channel will ask you three questions:
+
+1. What have you accomplished since the last the last Slack check-in?
+2. What are you working on now?
+3. What is holding your back?
+
+You will be responsible to log into our Slack channel and answer these questions.
+
+Failure to do the Slack check-in also counts as missed attendance.
+
+You can lose XP by not checking in. 
+
+- first and second missed check-in: no loss of points
+- third missed check-in - 10xp
+- fourth missed check-in - 40xp
+- fifth -150xp
+- sixth: -1000xp
 
 
 
-## Zoom Study Groups
+If I see you are stuck on a particular problem, I will contact you.
 
-I want the course to be more than just you working through online material on your own alone in your room. I would like the feeling to be that we are in this together and have the ability to get help quickly from people. My son told me that during this coronavirus time, his work group starts the day with a Zoom Scrum standup and then keeps Zoom up while they work all day. That way, if someone has a question, they can get an instant answer. People mute, go to the bathroom, come back, get something to eat, comeback, but there is this sense of connection--they are working together on a common project. I thought that sounded fantastic and decided to implement this idea in Zoom study groups as follows 
-
-* The study groups are on Tuesday. 
-* Each study group is 1.5 hours long
-* The group starts with a Scrum Standup. That means we go around the group and answer these questions:
-  * what did I do since the last meeting
-  * what will I work on today
-  * are there any impediments in my way?
-* After the standup we just work on our stuff for the remainder of our time while staying in the zoom call.
-* If you have a question you can ask it and get help from anyone in the group including me.
-* There is a 8 person limit to how many people can be in a group. While I determine the membership of each group, you can request to be in a group with specific people and I will try to honor that request.
-
-These study groups are optional, but if you wish to participate you will receive a 10% bonus on all work provided you attend 75% of the study groups.  If you wish to commit to this, there is a section on our [signup form](https://forms.gle/GrBgG96H92NQP7kk9)
 
