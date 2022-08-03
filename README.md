@@ -11,7 +11,8 @@
 | 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)       |
 | 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                               |
 | 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/1GKXvPqdZDsKotgjP6Vu2gcoFdvWgDfhrrs7u29yxMdQ/edit?usp=sharing) |
-| 5   | the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com)                                               |
+| 6   | the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com)                                               |
+| 7   | The [Lab Submission Form](https://forms.gle/1Y3pqr4BA5hVRzBa9)                                                                 |
 
 ## Course Catalog Description
 
@@ -25,19 +26,23 @@ This course provides an introduction to practical machine learning tools for dat
 
 ## Prerequisites
 
+Prerequisite Course: COP 3530 Data Structures
+
+Corequisite Course: COP 4710 Database Management
+
+Note: While very little material from either of these courses will be used in this course, these prerequisites give you a level of programming maturity that is required.
+
 ## An asynchronous online class
 
 This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com/) to get assistance from me or your classmates.
 
 The advantages of this approach is that it allows you great flexibility in when you want to work on the material and for how long. And, as described below under mastery learning, it allows you to work at your own pace.
 
-### Optional Zoom Study Groups
-
-See the description of the study groups on the [What to expect page](jumpstart/what_to_expect.md).
-
 ### Instructor availability
 
-I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. Feel free to message me outside of those times. At times my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
+**Slack Office Hours: Tuesdays and Wednesdays 11-3pm ET**
+
+I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. My next level of availability is Tuesdays and Wednesdays from 2pm to 4pm and Thursdays from 11am until 2pm ET. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
 
@@ -126,13 +131,13 @@ Traditional classes are time-based learning. You spend a specific amount of time
 
 This class doesn't work like that.
 
-In contrast to time-based learning, in mastery learning you stay on the topic until you master it. You work at your own pace. This online class is based on this approach. You stay on a topic until you master it. As I mentioned, the lectures are a set of videos (mostly screencasts) that you can watch at anytime. If the material is easy for you, you can speed up the videos and watch them at 1.5 speed. If you find the material challenging, you can rewatch the videos, google for more information, interact with other learners on the Slack channel, or in a study group.
+In contrast to time-based learning, in mastery learning you stay on the topic until you master it. You work at your own pace. This online class is based on this approach. You stay on a topic until you master it. As I mentioned, the lectures are a set of videos (mostly screencasts) that you can watch at anytime. If the material is easy for you, you can speed up the videos and watch them at 1.5 speed. If you find the material challenging, you can rewatch the videos, google for more information, interact with other learners on the Slack channel.
 
 Obviously, the work-at-your-own pace approach will collide with the end of the semester and there will be some material that you will not cover. The course is designed so that the essential core information is presented first, to enable you to develop solid foundational skills with no gaps.
 
 ### Mastery Learning Difficulties
 
-This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **Starting on week 8, there is a limit of 2 submissions per week**
+This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **Starting on week 8, there is a limit of 2 submissions per week.** 
 
 ## The course material
 
@@ -146,24 +151,24 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 
 ## Week-by-Week
 
-| Week | Date   | Unit        | Topics                                                       |
-| ----:|:------ |:----------- |:------------------------------------------------------------ |
-| 1    | 22 Aug | Intro       | Intro, Quickstart                                            |
-| 2    | 29 Aug | basics      | Numpy, Pandas labs                                           |
-| 3    | 5 Sep  | basics      | kNN, sklearn, kNN lab                                        |
-| 4    | 12 Sep | basics      | entropy and decision trees                                   |
-| 5    | 19 Sep | XGBoost     | working with data                                            |
-| 6    | 26 Sep | XGBoost     | bagging and pasting                                          |
-| 7    | 3 Oct  | XGBoost     | random forest,                                               |
-| 8    | 10 Oct | DNN         | XGBoost - First Project                                      |
-| 9    | 17 Oct | DNN         | our first neural network - classifying images                |
-| 10   | 24 Oct | DNN         | Neural Network anatomy , a first look at text classification |
-| 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN)          |
-| 12   | 7 Nov  | DNN         | using pretrained CNNs Project 2                              |
-| 13   | 14 Nov | DNN         | CNNs and text classification                                 |
-| 14   | 21 Nov | RL          | recurrent neural networks (RNN)                              |
-| 15   | 28 Nov | RL          | reinforcement learning                                       |
-| 16   | 5 Dec  | FINALS WEEK |                                                              |
+| Week | Date   | Unit        | Topics                                              | labs and projects                 |
+| ----:|:------ |:----------- |:--------------------------------------------------- |:--------------------------------- |
+| 1    | 22 Aug | Intro       | Intro to class & Quickstart to ML                   | Quickstart lab                    |
+| 2    | 29 Aug | basics      | Numpy, Pandas                                       | Numpy & Pandas labs               |
+| 3    | 5 Sep  | basics      | kNN sklearn                                         | sklearn lab                       |
+| 4    | 12 Sep | basics      | entropy and decision trees                          | decision tree lab                 |
+| 5    | 19 Sep | XGBoost     | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
+| 6    | 26 Sep | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
+| 7    | 3 Oct  | XGBoost     | random forest, patches, xgboost                     | XGBoost lab                       |
+| 8    | 10 Oct | CL          | clustering                                          | clustering lab First Project      |
+| 9    | 17 Oct | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
+| 10   | 24 Oct | DNN         | Neural Network anatomy & classification             | --                                |
+| 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
+| 12   | 7 Nov  | DNN         | using pretrained CNNs                               | Project 2                         |
+| 13   | 14 Nov | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
+| 14   | 21 Nov | RL          | recurrent neural networks (RNN)                     | --                                |
+| 15   | 28 Nov | RL          | reinforcement learning                              | --                                |
+| 16   | 5 Dec  | FINALS WEEK | FINAL PROJECT                                       |                                   |
 
 Deadlines will be announced in the Slack channel.
 
@@ -221,16 +226,31 @@ Floridal International University's faculty are committed to supporting students
 
 ## Honor Code Policy
 
-[Computer Science Department Honor Code Policy](https://cas.umw.edu/computerscience/cpsc-department-honor-code-policy/)
+The general policy for any computer science class is 
 
-The amendments to the Computer Science Department policy are as follows (the numbers related to the numbers in the policy):
+1. **You must write all programs yourself (without help from others or from websites), unless specified.** You are *not* to communicate to others in any way about your assignments. You are also *not* to get code for your projects from Google, StackOverflow, Chegg, YouTube, or any other website unless permitted in writing.
 
-1. In the last cell of any submitted Jupyter notebook and at the bottom of any text/markdown file, type _I hereby swear upon my word of honor that I have neither given nor received unauthorized aid on this work_ followed by your name.
-2. I am more flexible than the policy "you are _not_ to communicate to others in any way about your assignment." My rule of thumb is What would a responsible adult do on the job? If you have a deadline on the job at a startup and didn't know how to do something, the responsible thing wouldn't be to sit at your workstation just getting more and more frustrated and depressed and missing the deadline. The responsible person would get whatever help was necessary to complete the task. On the other hand, a responsible person wouldn't let someone else do all the work and present it as his own. That would be a violation of this policy. (See the Slack section of the syllabus)
-3. Regarding " Remember that _giving_ unauthorized help violates the Honor Code just as much as _receiving_ unauthorized help does." Again, I refer to the 'responsible adult' mentioned above. I would like people to help each other but yet do the work to learn the material. Sharing a complete assignment violates this point, but helping a person debug one cell of a notebook is fine.
-4. Sadly, this contradicts what you want to do in your professional life. In your professional life, you want to post solutions to things you figured out as a way of helping people in the community. In fact, we are going to be using some material people posted in this class. However, to prevent plagiarism, you will only post your material to a private github repository. Sorry.
-5. You should acknowledge the people that helped you in writing in your submission. For example, "Ann Mulkern helped me with the code to divide the dataset into training and testing sets"
-6. All the rest of the conditions of the computer science policy hold as is.
+2. **Do not share your code with other students**, either this semester, or in any future semester. Remember that *giving* unauthorized help violates the Honor Code just as much as *receiving* unauthorized help does.
+
+3. **Do not post your code or class materials anywhere.** You may not upload your solutions to any publicly-available website, post part of your solution on StackOverflow or any similar site, or post assignments/notes/etc from the course, even if they were instructor-authored materials.
+
+4. **Explicitly cite any sources you use**
+
+5. **Do not look at solutions from previous semesters.** Professors evolve and reuse assignments over many years in order to perfect them. If someone does leave their code (or other materials) lying around from a previous offering of the course, you may *not* look at them when completing your own.
+
+6. **Be prepared to explain anything you submit.** Your instructor may, at any time, call you in to his/her office to explain any part of your program. You will be expected to convincingly walk him/her through your code, demonstrating your thought process behind it. If you cannot, this may be considered an Honor Code violation.
+
+7. **When in doubt, ask your instructor what constitutes plagiarism.** If you’re not sure whether you need to cite a source for a quotation in a paper, or list the URL of a website from which you got some code, *ask*. If you do not ask, and the instructor deems it to be unauthorized help, this may be considered an Honor Code violation.
+
+From [The University of Mary Washington Computer Science Department Honor Code Policy](https://cas.umw.edu/computerscience/cpsc-department-honor-code-policy/)
+
+**The amendments to the Computer Science Department policy are as follows** (the numbers related to the numbers in the policy):
+
+1. I am more flexible than the policy "you are _not_ to communicate to others in any way about your assignment." My rule of thumb is What would a responsible adult do on the job? If you have a deadline on the job at a startup and didn't know how to do something, the responsible thing wouldn't be to sit at your workstation just getting more and more frustrated and depressed and missing the deadline. The responsible person would get whatever help was necessary to complete the task. On the other hand, a responsible person wouldn't let someone else do all the work and present it as his own. That would be a violation of this policy. (See the Slack section of the syllabus)
+2. Regarding " Remember that _giving_ unauthorized help violates the Honor Code just as much as _receiving_ unauthorized help does." Again, I refer to the 'responsible adult' mentioned above. I would like people to help each other but yet do the work to learn the material. Sharing a complete assignment violates this point, but helping a person debug one cell of a notebook is fine.
+3. Sadly, this contradicts what you want to do in your professional life. In your professional life, you want to post solutions to things you figured out as a way of helping people in the community. In fact, we are going to be using some material people posted in this class. However, to prevent plagiarism, you will only post your material to **a private github repository**. Sorry.
+4. You should acknowledge the people that helped you in writing in your submission. For example, "Ann Mulkern helped me with the code to divide the dataset into training and testing sets"
+5. All the rest of the conditions of the computer science policy hold as is.
 
 ### Avatar names, pseudonyms, noms de plume
 
