@@ -1,23 +1,33 @@
-# cpsc/data 419 Data Mining
+# CAP4770 Introduction to Data Mining
+
+## Fall 2022
 
 #### essentials
 
-|   \# | Resource                                                     |
-| ---: | :----------------------------------------------------------- |
-|    1 | [The current version of the syllabus](https://github.com/zacharski/ml-class) |
-|    2 | [Welcome video](https://youtu.be/CT06ST4xLUk)                |
-|    3 | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md) |
-|    4 | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041 |
-|    5 | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/17g7N0IZnw6bTnp3vmNm4nfQjyDL3k8erllcU59l-0-s/edit?usp=sharing) |
-|    5 | the [UMW Deep Learning Slack workspace](2ZyKaiYf5CzO9kv)     |
+| \#  | Resource                                                                                                                       |
+| ---:|:------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                   |
+| 2   | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                  |
+| 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)       |
+| 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                               |
+| 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/1GKXvPqdZDsKotgjP6Vu2gcoFdvWgDfhrrs7u29yxMdQ/edit?usp=sharing) |
+| 5   | the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com)                                               |
+
+## Course Catalog Description
+
+Data mining applications, data preparation, data reduction and
+various data mining techniques such as association, clustering, classification, anomaly
+detection.
 
 ## Course Description
 
-This course provides an introduction to machine learning with an emphasis on XGBoost and Deep Learning.
+This course provides an introduction to practical machine learning tools for data mining with an emphasis on XGBoost and Deep Learning.
 
-### An asynchronous online class
+## Prerequisites
 
-This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [UMW Deep Learning Slack workspace](https://umw-deep-learning.slack.com/) to get assistance from me or your classmates.
+## An asynchronous online class
+
+This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com/) to get assistance from me or your classmates.
 
 The advantages of this approach is that it allows you great flexibility in when you want to work on the material and for how long. And, as described below under mastery learning, it allows you to work at your own pace.
 
@@ -27,9 +37,31 @@ See the description of the study groups on the [What to expect page](jumpstart/w
 
 ### Instructor availability
 
-I will be sitting at my laptop on the Slack channel Monday through Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond immediately unless I am helping another student. Excluding those times, my next level of availability is Monday through Thursday from 11am to 4pm. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage.
+I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. Feel free to message me outside of those times. At times my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
+
+## Course Objectives
+
+Students will gain hands-on experience with the following algorithms and libraries, learning when and how to apply them to problems in data mining:
+
+* Numpy, Pandas, skLearn
+
+* entropy and decision trees
+
+* bagging and pasting
+
+* random forest
+
+* XGBoost
+
+* deep learning basics
+
+* Convolutional Neural Networks (CNN)
+
+* Clustering
+
+* Working with text
 
 ## Expected Outcomes
 
@@ -100,36 +132,38 @@ Obviously, the work-at-your-own pace approach will collide with the end of the s
 
 ### Mastery Learning Difficulties
 
-This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **There is a limit of 2 submissions per week**
+This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **Starting on week 8, there is a limit of 2 submissions per week**
 
 ## The course material
 
 | Order | Lesson                 |
-| ----: | :--------------------- |
-|     1 | [JumpStart](jumpstart) |
-|     2 | [Labs](labs)           |
-|     3 | [Projects](projects)   |
+| -----:|:---------------------- |
+| 1     | [JumpStart](jumpstart) |
+| 2     | [Labs](labs)           |
+| 3     | [Projects](projects)   |
 
 Again, the class is work-at-your-own pace, but I provide a suggested schedule below.
 
 ## Week-by-Week
 
-| Week | Date   | Unit    | Topics                                                       |
-| ---: | :----- | :------ | :----------------------------------------------------------- |
-|    1 | 25 Jan | Intro   | Intro, Numpy, Pandas labs                                    |
-|    2 | 1 Feb  | basics  | kNN, sklearn, kNN lab                                        |
-|    3 | 8 Feb  | basics  | entropy and decision trees                                   |
-|    4 | 15 Feb | basics  | working with data                                            |
-|    5 | 22 Feb | XGBoost | bagging and pasting                                          |
-|    6 | 1 Mar  | XGBoost | random forest,                                               |
-|    7 | 8 Mar  | XGBoost | XGBoost - First Project                                      |
-|    8 | 15 Mar | DNN     | our first neural network - classifying images                |
-|    9 | 22 Mar | DNN     | Neural Network anatomy , a first look at text classification |
-|   10 | 29 Mar | DNN     | Introduction to Convolutional Neural Networks (CNN)          |
-|   11 | 5 Apr  | DNN     | using pretrained CNNs Project 2                              |
-|   12 | 12 Apr | DNN     | CNNs and text classification                                 |
-|   13 | 19 Apr | DNN     | recurrent neural networks (RNN)                              |
-|   14 | 26 Apr | RL      | reinforcement learning                                       |
+| Week | Date   | Unit        | Topics                                                       |
+| ----:|:------ |:----------- |:------------------------------------------------------------ |
+| 1    | 22 Aug | Intro       | Intro, Quickstart                                            |
+| 2    | 29 Aug | basics      | Numpy, Pandas labs                                           |
+| 3    | 5 Sep  | basics      | kNN, sklearn, kNN lab                                        |
+| 4    | 12 Sep | basics      | entropy and decision trees                                   |
+| 5    | 19 Sep | XGBoost     | working with data                                            |
+| 6    | 26 Sep | XGBoost     | bagging and pasting                                          |
+| 7    | 3 Oct  | XGBoost     | random forest,                                               |
+| 8    | 10 Oct | DNN         | XGBoost - First Project                                      |
+| 9    | 17 Oct | DNN         | our first neural network - classifying images                |
+| 10   | 24 Oct | DNN         | Neural Network anatomy , a first look at text classification |
+| 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN)          |
+| 12   | 7 Nov  | DNN         | using pretrained CNNs Project 2                              |
+| 13   | 14 Nov | DNN         | CNNs and text classification                                 |
+| 14   | 21 Nov | RL          | recurrent neural networks (RNN)                              |
+| 15   | 28 Nov | RL          | reinforcement learning                                       |
+| 16   | 5 Dec  | FINALS WEEK |                                                              |
 
 Deadlines will be announced in the Slack channel.
 
@@ -137,40 +171,41 @@ Deadlines will be announced in the Slack channel.
 
 **[Google Colab Cloud Account](https://colab.research.google.com/notebooks/intro.ipynb)**
 
-**Laptop**
+**Laptop** 
 
 [Inquiryum’s Machine Learning Fundamentals Course ](http://inquiryum.com/machine-learning)
+
+No purchases (books or equipment) are required
 
 ## Slack
 
 Slack is a work chat application that many tech companies use. We are going to be using Slack in a number of ways. If you have a particular programming question you can ask it in a general channel and hopefully you will get an answer or suggestion quickly from either myself or fellow learners.
 
-[Sign up for Slack here](https://join.slack.com/t/umw-deep-learning/shared_invite/zt-gi5v2p11-Gcz47B8_NSS4MlZUXssA~A).
+[Sign up for Slack here](https://join.slack.com/t/newworkspace-9yq7551/shared_invite/zt-1dl3bvb7m-ANjWYb8YCGy5lYjxiB4thA).
 
 ## Okay but how do I pass?
 
 Grading is based on a method developed by Professor Lee Sheldon at Indiana University. It is based on obtaining experience points (XP). The number of XP determines what level you are at. You start the class at Level Zero and with 0 XP. The level you obtain at the end of the semester determines your final grade. Here is the chart:
 
-| Level |  XP  | Grade |
-| :---: | :--: | :---: |
-| Zero  |  0   |   F   |
-|  One  | 240  |   D   |
-|  Two  | 340  |  D+   |
-| Three | 450  |  C-   |
-| Four  | 550  |   C   |
-| Five  | 650  |  C+   |
-|  Six  | 750  |  B-   |
-| Seven | 850  |   B   |
-| Eight | 925  |  B+   |
-| Nine  | 1000 |  A-   |
-|  Ten  | 1100 |   A   |
+| Level | XP   | Grade |
+|:-----:|:----:|:-----:|
+| Zero  | 0    | F     |
+| One   | 240  | D     |
+| Two   | 340  | D+    |
+| Three | 450  | C-    |
+| Four  | 550  | C     |
+| Five  | 650  | C+    |
+| Six   | 750  | B-    |
+| Seven | 850  | B     |
+| Eight | 925  | B+    |
+| Nine  | 1000 | A-    |
+| Ten   | 1100 | A     |
 
 Here are the ways of earning XP:
 
 - there will be around 15 labs. On average each will be worth 22xp
 
 - there are 5 machine learning projects. On average they are each worth 125xp
-
 
 ## **Accessibility Statement**
 
@@ -180,51 +215,9 @@ If you have not made contact with the Office of Disability Resources and have re
 
 ## Title IX Statement
 
-University of Mary Washington faculty are committed to supporting students and upholding the University’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence. Under Title IX and this Policy, discrimination based upon sex or gender is prohibited. If you experience an incident of sex or gender based discrimination, we encourage you to report it. While you may talk to me, understand that as a “Responsible Employee” of the University, I MUST report to UMW’s Title IX Coordinator what you share. If you wish to speak to someone confidentially, please contact the below confidential resources. They can connect you with support services and help you explore your options. You may also seek assistance from UMW’s Title IX Coordinator. Please visit http://diversity.umw.edu/title-ix/ to view UMW’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence and to find further information on support and resources.
+Floridal International University's faculty are committed to supporting students and upholding the University’s Policy on Sexual Harassment and Sexual Misconduct. Under Title IX and this Policy, discrimination based upon sex or gender is prohibited. If you experience an incident of sex or gender based discrimination, we encourage you to report it. While you may talk to me, understand that as a “Responsible Employee” of the University, I MUST report to FIU's Title IX Coordinator what you share. If you wish to speak to someone confidentially, please contact the confidential resources described on the []FIU Title IX webpage](https://dei.fiu.edu/crca/title-ix) They can connect you with support services and help you explore your options. You may also seek assistance from FIU’s Title IX Coordinator. 
 
-#### Resources
-
-Tiffany W. Oldfield, J.D.
-Title IX Coordinator
-Office of Title IX
-Fairfax House
-540-654-5656
-toldfiel@umw.edu
-
-nearlyMyranda Thomson
-Title IX Deputy for Students
-Area Coordinator
-540-654-1184
-mthomson@umw.edu
-
-#### Confidential Resources
-
-_On Campus_
-
-JavascriptTalley Center for Counselling Services
-Lee Hall 106
-
-Student Health Center
-Lee Hall 112
-
-_Off-Campus_
-
-Empowerhouse
-540-373-9373
-
-RCASA
-540-371-1666
-
-## Recording Policy
-
-Resources in this course may be copied by students enrolled in the course for the
-personal, educational use of that student or for all students presently enrolled in the class only,
-and may not be further copied, distributed, published or otherwise used for any other purpose
-without the express written consent of the course instructor. All students are advised that
-class activities including Slack comments may be copied by students for this purpose. Distribution or sale of class
-materials is prohibited without the written permission of the instructor and other students who
-are recorded. Distribution without permission is a violation of copyright law. This policy is
-consistent with [UMW’s Policy on Recording Class and Distribution of Course Materials.](https://www.boarddocs.com/va/umw/Board.nsf/goto?open&id=ATZSXG724B54)
+#### 
 
 ## Honor Code Policy
 
