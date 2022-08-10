@@ -17,7 +17,7 @@ You should save your completed code to your github repository and notify me by [
 | 5     | [Decision Trees](decision_trees.ipynb)         |
 | 6     | [Working With Data](WorkingWithData.ipynb)     |
 | 7     | [Regression](regression.ipynb)                 |
-| 8.    | [Clustering]{clustering.ipynb)                 | 
+| 8    | [Clustering](clustering.ipynb)                 | 
 
 ## Ensemble Methods
 
