@@ -40,9 +40,9 @@ The advantages of this approach is that it allows you great flexibility in when 
 
 ### Instructor availability
 
-**Slack Office Hours: Tuesdays and Wednesdays 11-3pm ET**
+**Slack Office Hours: Tuesdays and Wednesdays 11-2pm ET**
 
-I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. My next level of availability is Tuesdays and Wednesdays from 2pm to 4pm and Thursdays from 11am until 2pm ET. My average response time during that period is 15 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
+I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. My next level of availability is Tuesdays and Wednesdays from 2pm to 4pm and Thursdays from 11am until 2pm ET. My average response time during that period is 30 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
 
@@ -157,10 +157,10 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 | 2    | 29 Aug | basics      | Numpy, Pandas                                       | Numpy & Pandas labs               |
 | 3    | 5 Sep  | basics      | kNN sklearn                                         | sklearn lab                       |
 | 4    | 12 Sep | basics      | entropy and decision trees                          | decision tree lab                 |
-| 5    | 19 Sep | XGBoost     | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
-| 6    | 26 Sep | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
-| 7    | 3 Oct  | XGBoost     | random forest, patches, xgboost                     | XGBoost lab                       |
-| 8    | 10 Oct | CL          | clustering                                          | clustering lab First Project      |
+| 5    | 19 Sep | basics      | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
+| 6    | 26 Sep | basics      | Regression & Clustering                             | regression and clustering labs    |
+| 7    | 3 Oct  | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
+| 8    | 10 Oct | XGBoost     | random forest, patches, xgboost                     | XGBoost lab First Project         |
 | 9    | 17 Oct | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
 | 10   | 24 Oct | DNN         | Neural Network anatomy & classification             | --                                |
 | 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
@@ -192,25 +192,25 @@ Slack is a work chat application that many tech companies use. We are going to b
 
 Grading is based on a method developed by Professor Lee Sheldon at Indiana University. It is based on obtaining experience points (XP). The number of XP determines what level you are at. You start the class at Level Zero and with 0 XP. The level you obtain at the end of the semester determines your final grade. Here is the chart:
 
-| Level | XP   | Grade |
-|:-----:|:----:|:-----:|
-| Zero  | 0    | F     |
-| One   | 240  | D     |
-| Two   | 340  | D+    |
-| Three | 450  | C-    |
-| Four  | 550  | C     |
-| Five  | 650  | C+    |
-| Six   | 750  | B-    |
-| Seven | 850  | B     |
-| Eight | 925  | B+    |
-| Nine  | 1000 | A-    |
-| Ten   | 1100 | A     |
+| Level | XP  | Grade |
+|:-----:|:---:|:-----:|
+| Zero  | 0   | F     |
+| One   | 690 | D     |
+| Two   | 700 | D+    |
+| Three | 730 | C-    |
+| Four  | 765 | C     |
+| Five  | 800 | C+    |
+| Six   | 840 | B-    |
+| Seven | 871 | B     |
+| Eight | 914 | B+    |
+| Nine  | 950 | A-    |
+| Ten   | 990 | A     |
 
 Here are the ways of earning XP:
 
-- there will be around 15 labs. On average each will be worth 22xp
+- there will be around 15 labs. On average each will be worth 30xp
 
-- there are 5 machine learning projects. On average they are each worth 125xp
+- there are 4-5 machine learning projects. On average they are each worth 150xp
 
 ## **Accessibility Statement**
 
@@ -244,9 +244,9 @@ The general policy for any computer science class is
 
 From [The University of Mary Washington Computer Science Department Honor Code Policy](https://cas.umw.edu/computerscience/cpsc-department-honor-code-policy/)
 
-**The amendments to the Computer Science Department policy are as follows** (the numbers related to the numbers in the policy):
+**The amendments to this general policy are as follows** (the numbers related to the numbers in the policy):
 
-1. I am more flexible than the policy "you are _not_ to communicate to others in any way about your assignment." My rule of thumb is What would a responsible adult do on the job? If you have a deadline on the job at a startup and didn't know how to do something, the responsible thing wouldn't be to sit at your workstation just getting more and more frustrated and depressed and missing the deadline. The responsible person would get whatever help was necessary to complete the task. On the other hand, a responsible person wouldn't let someone else do all the work and present it as his own. That would be a violation of this policy. (See the Slack section of the syllabus)
+1. I am more flexible than the policy "you are _not_ to communicate to others in any way about your assignment." My rule of thumb is *What would a responsible adult do on the job?* If you have a deadline on the job at a startup and didn't know how to do something, the responsible thing wouldn't be to sit at your workstation just getting more and more frustrated and depressed and missing the deadline. The responsible person would get whatever help was necessary to complete the task. On the other hand, a responsible person wouldn't let someone else do all the work and present it as his own. That would be a violation of this policy. 
 2. Regarding " Remember that _giving_ unauthorized help violates the Honor Code just as much as _receiving_ unauthorized help does." Again, I refer to the 'responsible adult' mentioned above. I would like people to help each other but yet do the work to learn the material. Sharing a complete assignment violates this point, but helping a person debug one cell of a notebook is fine.
 3. Sadly, this contradicts what you want to do in your professional life. In your professional life, you want to post solutions to things you figured out as a way of helping people in the community. In fact, we are going to be using some material people posted in this class. However, to prevent plagiarism, you will only post your material to **a private github repository**. Sorry.
 4. You should acknowledge the people that helped you in writing in your submission. For example, "Ann Mulkern helped me with the code to divide the dataset into training and testing sets"
