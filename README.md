@@ -186,6 +186,28 @@ No purchases (books or equipment) are required
 
 Slack is a work chat application that many tech companies use. We are going to be using Slack in a number of ways. If you have a particular programming question you can ask it in a general channel and hopefully you will get an answer or suggestion quickly from either myself or fellow learners.
 
+#### Slack check-in
+
+Twice per week one of our Slackbots will ask you three questions:
+
+1. What have you accomplished since the last class?
+2. What are you working on now?
+3. What is holding your back?
+
+Failure to do the Slack check-in will result in the following deduction of points:
+
+| number of missed check-ins | points deducted |
+| --------------------------:| ---------------:|
+| 1                          | 0               |
+| 2                          | 10              |
+| 3                          | 25              |
+| 4                          | 100             |
+| 5                          | 250             |
+
+You will be responsible for logging into Slack on Mondays and Thursdays to answer these questions.  When you initially sign in to Slack make sure to join the scrum channel.
+
+
+
 [Sign up for Slack here](https://join.slack.com/t/newworkspace-9yq7551/shared_invite/zt-1dl3bvb7m-ANjWYb8YCGy5lYjxiB4thA).
 
 ## Okay but how do I pass?
