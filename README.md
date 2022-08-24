@@ -206,8 +206,6 @@ Failure to do the Slack check-in will result in the following deduction of point
 
 You will be responsible for logging into Slack on Mondays and Thursdays to answer these questions.  When you initially sign in to Slack make sure to join the scrum channel.
 
-
-
 [Sign up for Slack here](https://join.slack.com/t/newworkspace-9yq7551/shared_invite/zt-1dl3bvb7m-ANjWYb8YCGy5lYjxiB4thA).
 
 ## Okay but how do I pass?
@@ -218,15 +216,13 @@ Grading is based on a method developed by Professor Lee Sheldon at Indiana Unive
 |:-----:|:---:|:-----:|
 | Zero  | 0   | F     |
 | One   | 690 | D     |
-| Two   | 700 | D+    |
-| Three | 730 | C-    |
-| Four  | 765 | C     |
-| Five  | 800 | C+    |
-| Six   | 840 | B-    |
-| Seven | 871 | B     |
-| Eight | 914 | B+    |
-| Nine  | 950 | A-    |
-| Ten   | 990 | A     |
+| Two   | 740 | C     |
+| Three | 800 | C+    |
+| Four  | 840 | B-    |
+| Five  | 871 | B     |
+| Six   | 914 | B+    |
+| Seven | 950 | A-    |
+| Eight | 990 | A     |
 
 Here are the ways of earning XP:
 
