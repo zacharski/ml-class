@@ -206,7 +206,7 @@ Failure to do the Slack check-in will result in the following deduction of point
 
 You will be responsible for logging into Slack on Mondays and Thursdays to answer these questions.  When you initially sign in to Slack make sure to join the scrum channel.
 
-[Sign up for Slack here](https://join.slack.com/t/newworkspace-9yq7551/shared_invite/zt-1dl3bvb7m-ANjWYb8YCGy5lYjxiB4thA).
+[Sign up for Slack here](https://join.slack.com/t/fiu-deeplearning-team/shared_invite/zt-1fw4e5g5s-IaLcyl_0CgKJ4tjtv0Bj8A).
 
 ## Okay but how do I pass?
 
