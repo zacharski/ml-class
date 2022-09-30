@@ -20,6 +20,10 @@ The column you are predicting in the training data is Loan_Status. This column d
 
 
 
+This task combines what you learned in a number of labs. You are free to use whatever classifier you want.  Remember, that you can experiment with adjusting hyperparameters. For example, if you select decision trees, you can experiment with the maximum depth.
+
+
+
 ### Deliverables
 
 There are two deliverables:
