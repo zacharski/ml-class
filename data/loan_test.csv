@@ -1,0 +1,31 @@
+,Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area
+0,LP002911,Male,Yes,1,Graduate,No,2787,1917,146.0,360,0.0,Rural
+1,LP002912,Male,Yes,1,Graduate,No,4283,3000,172.0,84,1.0,Rural
+2,LP002916,Male,Yes,0,Graduate,No,2297,1522,104.0,360,1.0,Urban
+3,LP002917,Female,No,0,Not Graduate,No,2165,0,70.0,360,1.0,Semiurban
+4,LP002925,,No,0,Graduate,No,4750,0,94.0,360,1.0,Semiurban
+5,LP002926,Male,Yes,2,Graduate,Yes,2726,0,106.0,360,0.0,Semiurban
+6,LP002928,Male,Yes,0,Graduate,No,3000,3416,56.0,180,1.0,Semiurban
+7,LP002931,Male,Yes,2,Graduate,Yes,6000,0,205.0,240,1.0,Semiurban
+8,LP002933,,No,3+,Graduate,Yes,9357,0,292.0,360,1.0,Semiurban
+9,LP002936,Male,Yes,0,Graduate,No,3859,3300,142.0,180,1.0,Rural
+10,LP002938,Male,Yes,0,Graduate,Yes,16120,0,260.0,360,1.0,Urban
+11,LP002940,Male,No,0,Not Graduate,No,3833,0,110.0,360,1.0,Rural
+12,LP002941,Male,Yes,2,Not Graduate,Yes,6383,1000,187.0,360,1.0,Rural
+13,LP002943,Male,No,,Graduate,No,2987,0,88.0,360,0.0,Semiurban
+14,LP002945,Male,Yes,0,Graduate,Yes,9963,0,180.0,360,1.0,Rural
+15,LP002948,Male,Yes,2,Graduate,No,5780,0,192.0,360,1.0,Urban
+16,LP002949,Female,No,3+,Graduate,,416,41667,350.0,180,,Urban
+17,LP002950,Male,Yes,0,Not Graduate,,2894,2792,155.0,360,1.0,Rural
+18,LP002953,Male,Yes,3+,Graduate,No,5703,0,128.0,360,1.0,Urban
+19,LP002958,Male,No,0,Graduate,No,3676,4301,172.0,360,1.0,Rural
+20,LP002959,Female,Yes,1,Graduate,No,12000,0,496.0,360,1.0,Semiurban
+21,LP002960,Male,Yes,0,Not Graduate,No,2400,3800,,180,1.0,Urban
+22,LP002961,Male,Yes,1,Graduate,No,3400,2500,173.0,360,1.0,Semiurban
+23,LP002964,Male,Yes,2,Not Graduate,No,3987,1411,157.0,360,1.0,Rural
+24,LP002974,Male,Yes,0,Graduate,No,3232,1950,108.0,360,1.0,Rural
+25,LP002978,Female,No,0,Graduate,No,2900,0,71.0,360,1.0,Rural
+26,LP002979,Male,Yes,3+,Graduate,No,4106,0,40.0,180,1.0,Rural
+27,LP002983,Male,Yes,1,Graduate,No,8072,240,253.0,360,1.0,Urban
+28,LP002984,Male,Yes,2,Graduate,No,7583,0,187.0,360,1.0,Urban
+29,LP002990,Female,No,0,Graduate,Yes,4583,0,133.0,360,0.0,Semiurban
