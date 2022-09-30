@@ -59,3 +59,11 @@ The text file will contain your predictions on the test data. The format needs t
 
 
 where 0 indicates the loan is note approved and 1 indicates it has been approved.  Since I automatically grade this it is important that you follow this format. There are 30 entries in the test file. The xp you get is the number correct times the score on your Python notebook.  For example, if you get 25 predictions correct and the score on your notebook is 0.75 your score will be 19. 
+
+
+
+### How to submit
+
+Commit your files to github.  Direct message me in slack with the links to your two files.
+
+Questions? DM me.
