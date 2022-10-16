@@ -32,9 +32,10 @@ this will give everyone the same test set (`random_state=42` is what enables thi
 
 Bonus:
 
-| bonus | criteria                                                                    |
-|:-----:|:---------------------------------------------------------------------------:|
-| 10    | better than .85 accuracy on `accuracy_score(bach_test_labels, predictions)` |
-| 20    | third best in class                                                         |
-| 25    | second best in class                                                        |
-| 30    | first in class                                                              |
+| bonus                    | criteria                               |
+|:------------------------:|:--------------------------------------:|
+| xp = (accuracy - 74) * 2 | accuracy between 74-80. The formula is |
+| xp = 15+ (accuracy - 80) | better than .8 accuracy                |
+| 20                       | third best in class                    |
+| 25                       | second best in class                   |
+| 30                       | first in class                         |
