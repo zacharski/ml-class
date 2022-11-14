@@ -164,7 +164,7 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 | 9    | 17 Oct | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
 | 10   | 24 Oct | DNN         | Neural Network anatomy & classification             | --                                |
 | 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
-| 12   | 7 Nov  | DNN         | using pretrained CNNs                               | Project 2                         |
+| 12   | 7 Nov  | DNN         | project work                                        | Projects 2 & 3                    |
 | 13   | 14 Nov | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
 | 14   | 21 Nov | DNN         | CNN and text classification cont'd                  | Amazon Reviews Project            |
 | 15   | 28 Nov | RL          | reinforcement learning                              | --                                |
