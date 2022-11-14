@@ -166,7 +166,7 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 | 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
 | 12   | 7 Nov  | DNN         | using pretrained CNNs                               | Project 2                         |
 | 13   | 14 Nov | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
-| 14   | 21 Nov | RL          | recurrent neural networks (RNN)                     | --                                |
+| 14   | 21 Nov | DNN         | CNN and text classification cont'd                  | Amazon Reviews Project            |
 | 15   | 28 Nov | RL          | reinforcement learning                              | --                                |
 | 16   | 5 Dec  | FINALS WEEK | FINAL PROJECT                                       |                                   |
 
