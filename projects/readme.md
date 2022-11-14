@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
-
 ## General Instructions
+
 Projects allow you to explore a dataset and experiment with the techniques covered in the labs--can you apply what you learned on a new dataset? 
 For all projects you are to create a Jupyter Notebook containing both your code and your commentary. 
 
@@ -15,6 +15,7 @@ bach = pd.read_csv('../data/bach.csv')
 # get the list of columns
 columns = list(bach.columns)
 ```
+
 and probably would comment something like
 
 ```
@@ -38,30 +39,18 @@ Projects are intentionally vague. I want you to engage your brain and not simply
 
 You should save your completed Python notebook to your github repository and notify me by [filling our this form](https://forms.gle/U5HYHJdKaR5vDtSM9)
 
-
-
-
-| Order | Lesson                                  |
-| ----: | :-------------------------------------- |
-|     1 | [Bach Chorales](Bach.md)                |
-|     2 | [Crate and Barrel](Crate-and-Barrel.md) |
-|     3 | [Image Classification](imageclassification.md)           |
-
-
+| Order | Lesson                                                |
+| -----:|:----------------------------------------------------- |
+| 1     | [Bach Chorales](Bach.md)                              |
+| 2     | [Crate and Barrel](Crate-and-Barrel.md)               |
+| 3     | [Image Classification](imageclassification.md)        |
+| 4     | [Amazon Musical Instrument Reviews](amazonReviews.md) |
 
 #### XP Grading Rubric
 
-% of xp | rubric
-:---: | :--
-25 | writeup. Is it at least as good as Nadin Tamer's above. 
-50 | code shows you understand the basic concepts
-25 | code shows that you are exploring the options (for example,  looking at different hyperparameters)
-bonus | performance related to baseline code and compared to others in the class
-
-
-
-
-
-
-
-
+| % of xp | rubric                                                                                             |
+|:-------:|:-------------------------------------------------------------------------------------------------- |
+| 25      | writeup. Is it at least as good as Nadin Tamer's above.                                            |
+| 50      | code shows you understand the basic concepts                                                       |
+| 25      | code shows that you are exploring the options (for example,  looking at different hyperparameters) |
+| bonus   | performance related to baseline code and compared to others in the class                           |
