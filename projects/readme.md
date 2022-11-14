@@ -44,7 +44,7 @@ You should save your completed Python notebook to your github repository and not
 | 1     | [Bach Chorales](Bach.md)                              |
 | 2     | [Crate and Barrel](Crate-and-Barrel.md)               |
 | 3     | [Image Classification](imageclassification.md)        |
-| 4     | [Amazon Musical Instrument Reviews](amazonReviews.md) |
+| 4     | [Amazon Musical Instrument Reviews](AmazonReviews.md) |
 
 #### XP Grading Rubric
 
