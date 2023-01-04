@@ -1,18 +1,24 @@
 # CAP4770 Introduction to Data Mining
 
-## Fall 2022
+## Spring 2023
 
 #### essentials
 
-| \#  | Resource                                                                                                                       |
-| ---:|:------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                   |
-| 2   | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                  |
-| 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)       |
-| 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                               |
-| 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/1GKXvPqdZDsKotgjP6Vu2gcoFdvWgDfhrrs7u29yxMdQ/edit?usp=sharing) |
-| 6   | the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com)                                               |
-| 7   | The [Lab Submission Form](https://forms.gle/1Y3pqr4BA5hVRzBa9)                                                                 |
+| \#  | Resource                                                                                                                                   |
+| ---:|:------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                               |
+| 2   | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                              |
+| 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)                   |
+| 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                                           |
+| 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/10qxMR03-hDXsa3uM-JQyaMmnUIIDDC1K-zHJYcQjKOk/edit?usp=sharing)             |
+| 6   | the [FIU Deep Learning Slack workspace](https://fiudeeplearning2023.slack.com)                                                             |
+| 7   | The [Lab Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe8oVzj1af1h86dwvqF8Qha_Yw0B2E81m77ZxwjZUYH00BowA/viewform?usp=sf_link) |
+
+## 
+
+## Important: How to pass the course
+
+As you will read in the details below this class is a programming intensive course where you work at your own pace. Historically, about ⅓ of the students get an A,  ⅓ an F, and ⅓ between an A- and a D. What separates the 'A' students from the 'F' ones is that the 'A' students keep a regular schedule and consistantly submit their work. 
 
 ## Course Catalog Description
 
@@ -34,7 +40,7 @@ Note: While very little material from either of these courses will be used in th
 
 ## An asynchronous online class
 
-This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [FIU Deep Learning Slack workspace](https://fiu-deeplearning-team.slack.com/) to get assistance from me or your classmates.
+This class is asynchronous meaning there is no mandatory real-time interaction. You will be working through the [Inquiryum Machine Learning Fundamentals Course](http://inquiryum.com/machine-learning/). You can watch the videos anytime you want. You can play them at a faster speed, you can rewatch them or pause them. You can work on the course material in 20 minute blocks throughout a day, or devote a large contiguous block of time once per week. When you need help you can use the [FIU Deep Learning Slack workspace](https://fiudeeplearning2023.slack.com) to get assistance from me or your classmates.
 
 The advantages of this approach is that it allows you great flexibility in when you want to work on the material and for how long. And, as described below under mastery learning, it allows you to work at your own pace.
 
@@ -153,22 +159,22 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 
 | Week | Date   | Unit        | Topics                                              | labs and projects                 |
 | ----:|:------ |:----------- |:--------------------------------------------------- |:--------------------------------- |
-| 1    | 22 Aug | Intro       | Intro to class & Quickstart to ML                   | Quickstart lab                    |
-| 2    | 29 Aug | basics      | Numpy, Pandas                                       | Numpy & Pandas labs               |
-| 3    | 5 Sep  | basics      | kNN sklearn                                         | sklearn lab                       |
-| 4    | 12 Sep | basics      | entropy and decision trees                          | decision tree lab                 |
-| 5    | 19 Sep | basics      | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
-| 6    | 26 Sep | basics      | Regression & Clustering                             | regression and clustering labs    |
-| 7    | 3 Oct  | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
-| 8    | 10 Oct | XGBoost     | random forest, patches, xgboost                     | XGBoost lab First Project         |
-| 9    | 17 Oct | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
-| 10   | 24 Oct | DNN         | Neural Network anatomy & classification             | --                                |
-| 11   | 31 Oct | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
-| 12   | 7 Nov  | DNN         | project work                                        | Projects 2 & 3                    |
-| 13   | 14 Nov | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
-| 14   | 21 Nov | DNN         | CNN and text classification cont'd                  | Amazon Reviews Project            |
-| 15   | 28 Nov | RL          | reinforcement learning                              | --                                |
-| 16   | 5 Dec  | FINALS WEEK | FINAL PROJECT                                       |                                   |
+| 1    | 9 Jan  | Intro       | Intro to class & Quickstart to ML                   | Quickstart lab                    |
+| 2    | 16 Jan | basics      | Numpy, Pandas                                       | Numpy & Pandas labs               |
+| 3    | 23 Jan | basics      | kNN sklearn                                         | sklearn lab                       |
+| 4    | 30 Jan | basics      | entropy and decision trees                          | decision tree lab                 |
+| 5    | 6 Feb  | basics      | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
+| 6    | 13 Feb | basics      | Regression & Clustering                             | regression and clustering labs    |
+| 7    | 20 Feb | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
+| 8    | 27 Feb | XGBoost     | random forest, patches, xgboost                     | XGBoost lab First Project         |
+| 9    | 6 Mar  | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
+| 10   | 13 Mar | DNN         | Neural Network anatomy & classification             | --                                |
+| 11   | 20 Mar | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
+| 12   | 27 Mar | DNN         | project work                                        | Projects 2 & 3                    |
+| 13   | 3 Apr  | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
+| 14   | 10 Apr | DNN         | CNN and text classification cont'd                  | Amazon Reviews Project            |
+| 15   | 17 Apr | RL          | Generative AI                                       | GAN lab                           |
+| 16   | 24 Apr | FINALS WEEK | FINISH PROJECTS                                     |                                   |
 
 Deadlines will be announced in the Slack channel.
 
@@ -176,15 +182,17 @@ Deadlines will be announced in the Slack channel.
 
 **[Google Colab Cloud Account](https://colab.research.google.com/notebooks/intro.ipynb)**
 
+While the free Colab account is the minimum requirement, for the last 6 weeks of the class it may be beneficial to subscribe to [Google Colab Pro]([Google Colab](https://colab.research.google.com/signup)) for \$9.99/mo
+
 **Laptop** 
 
 [Inquiryum’s Machine Learning Fundamentals Course ](http://inquiryum.com/machine-learning)
 
-No purchases (books or equipment) are required
+No purchases  of books or equipment are required.
 
 ## Slack
 
-Slack is a work chat application that many tech companies use. We are going to be using Slack in a number of ways. If you have a particular programming question you can ask it in a general channel and hopefully you will get an answer or suggestion quickly from either myself or fellow learners.
+Slack is a work chat application that many tech companies use. We are going to be using Slack in a number of ways. First, all my announcements for the class will be in Slack. If you have a particular programming question you can ask it in a general channel and hopefully you will get an answer or suggestion quickly from either myself or fellow learners.
 
 #### Slack check-in
 
@@ -204,9 +212,9 @@ Failure to do the Slack check-in will result in the following deduction of point
 | 4                          | 100             |
 | 5                          | 250             |
 
-You will be responsible for logging into Slack on Mondays and Thursdays to answer these questions.  When you initially sign in to Slack make sure to join the scrum channel.
+You will be responsible for logging into Slack on Tuesdays and Fridays to answer these questions.  When you initially sign in to Slack make sure to join the scrum channel.
 
-[Sign up for Slack here](https://join.slack.com/t/fiu-deeplearning-team/shared_invite/zt-1fw4e5g5s-IaLcyl_0CgKJ4tjtv0Bj8A).
+[Sign up for Slack here](https://join.slack.com/t/fiudeeplearning2023/shared_invite/zt-1mqu2wws1-uaa5r06DIMUDGsM0hAg93w).
 
 ## Okay but how do I pass?
 
@@ -215,7 +223,7 @@ Grading is based on a method developed by Professor Lee Sheldon at Indiana Unive
 | Level | XP  | Grade |
 |:-----:|:---:|:-----:|
 | Zero  | 0   | F     |
-| One   | 690 | D     |
+| One   | 550 | D     |
 | Two   | 740 | C     |
 | Three | 800 | C+    |
 | Four  | 840 | B-    |
@@ -272,4 +280,4 @@ From [The University of Mary Washington Computer Science Department Honor Code P
 
 ### Avatar names, pseudonyms, noms de plume
 
-During the first week of class you will need to fill out the [Avatar Form](https://forms.gle/GrBgG96H92NQP7kk9) for your avatar name, pseudonym, whatever. This is the name that will appear on the Experience Point Google Spreadsheet that will be viewable by everyone in the class. If you wish to remain anonymous, don’t share your avatar name with anyone. To further protect the anonymity of those who wish to remain anonymous, the spreadsheet will also be populated by fictitious avatar names.
+During the first week of class you will need to fill out the [Avatar Form](https://docs.google.com/forms/d/e/1FAIpQLSfaZi8H5_sJaQB8EjO9DjGqqFgR115F1n-1xk6oRlyK3ED6UQ/viewform?usp=sf_link)  for your avatar name, pseudonym, whatever. This is the name that will appear on the Experience Point Google Spreadsheet that will be viewable by everyone in the class. If you wish to remain anonymous, don’t share your avatar name with anyone. To further protect the anonymity of those who wish to remain anonymous, the spreadsheet will also be populated by fictitious avatar names.
