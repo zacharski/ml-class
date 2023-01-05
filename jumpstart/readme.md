@@ -7,7 +7,7 @@ Welcome to the course.
 1. Read the [syllabus](../README.md)
 2. Read the first 3 lessons on this page
 3. Watch [the introduction videos at Inquiryum.com](http://inquiryum.com/machine-learning/)
-4. Complete the Quickstart Python Jupiter Notebook as described in the first video mentioned above.
+4. Complete the Quickstart Python Jupiter Notebook as described in the quickstart video mentioned in the step above.
 5. Watch the 2 videos (including the github one) on [the intro to the basics page](http://inquiryum.com/machine-learning/modules/basics/Intro-To-Basic-ML/)
 6. Create your own github repository using the specification on the fourth lesson on this page.
 7. [Sign up to our Slack workspace](https://join.slack.com/t/fiudeeplearning2023/shared_invite/zt-1mqu2wws1-uaa5r06DIMUDGsM0hAg93w)
