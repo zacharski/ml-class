@@ -18,7 +18,7 @@
 
 ## Important: How to pass the course
 
-As you will read in the details below this class is a programming intensive course where you work at your own pace. Historically, about ⅓ of the students get an A,  ⅓ an F, and ⅓ between an A- and a D. What separates the 'A' students from the 'F' ones is that the 'A' students keep a regular schedule and consistantly submit their work. 
+As you will read in the details below, this class is a programming intensive course where you work at your own pace. Historically, about ⅓ of the students get an A,  ⅓ an F, and ⅓ between an A and an F. What separates the 'A' students from the 'F' ones is that the 'A' students keep a regular schedule and consistantly submit their work.  If they have a question or need help debugging they message me on Slack. They are not necessarily the most proficient programmers, or the best at math. The attribute that best defines them is self-discipline.
 
 ## Course Catalog Description
 
@@ -143,7 +143,11 @@ Obviously, the work-at-your-own pace approach will collide with the end of the s
 
 ### Mastery Learning Difficulties
 
-This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. **Starting on week 8, there is a limit of 2 submissions per week.** 
+This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. 
+
+
+
+#### Starting on week 8, there is a limit of 3 submissions per week.
 
 ## The course material
 
@@ -188,7 +192,7 @@ While the free Colab account is the minimum requirement, for the last 6 weeks of
 
 [Inquiryum’s Machine Learning Fundamentals Course ](http://inquiryum.com/machine-learning)
 
-No purchases  of books or equipment are required.
+No purchases of books or equipment are required.
 
 ## Slack
 
