@@ -10,7 +10,7 @@ Due: Sunday, 29 Jan 2023. 11:59pm
 
 **The question is simple, does this university discriminate based on sex for admissions?**
 
-A good answer would contain text and supporting statistics.  This can be in the form of a Jupyter notebook, or a Google Doc.  I will give up to 5xp bonus for a good use of Pandas. 
+A good answer would contain text and supporting statistics.  This can be in the form of a Jupyter notebook, or a Google Doc.  I will give up to 5xp bonus for good use of Pandas if you go the notebook route. 
 
 
 
