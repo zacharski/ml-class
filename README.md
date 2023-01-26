@@ -145,8 +145,6 @@ Obviously, the work-at-your-own pace approach will collide with the end of the s
 
 This course is work at your own pace. Other courses you might be taking have fixed deadlines, So, for example, you might have a gnarly project for a programming class due this week and a big operating systems project due next week. It is likely that you will work on those projects since they have immediate deadlines and ignore working on this course. It is human nature. Just block out a regular time each week to work on the course and you will do fine. 
 
-
-
 #### Starting on week 8, there is a limit of 3 submissions per week.
 
 ## The course material
