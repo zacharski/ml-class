@@ -21,9 +21,6 @@ The dataset is of Johann Sebastian Bach's chorales and cantatas. Bach was very p
 If you want to try to obtain additional xp you need to divide the data intro training and testing using the following
 
 ```
-bach.set_index('choral_ID', inplace=True)
-bFeatures = bach.drop('chord_label', axis=1)
-bLabels = bach['chord_label']
 from sklearn.model_selection import train_test_split
 bach_train_features, bach_test_features, bach_train_labels, bach_test_labels = train_test_split(bFeatures, bLabels, test_size = 0.2, random_state=42)
 ```
