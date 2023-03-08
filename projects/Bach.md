@@ -4,7 +4,7 @@
 
 ### 
 
-### [General Readme on Projects]([ml-class/readme.md at master · zacharski/ml-class · GitHub](https://github.com/zacharski/ml-class/blob/master/projects/readme.md))
+### [General Readme on Projects](https://github.com/zacharski/ml-class/blob/master/projects/readme.md)
 
 ### The data file
 
