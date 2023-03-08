@@ -2,6 +2,10 @@
 
 ![](../labs/pics/bach.png)
 
+### 
+
+### [General Readme on Projects]([ml-class/readme.md at master · zacharski/ml-class · GitHub](https://github.com/zacharski/ml-class/blob/master/projects/readme.md))
+
 ### The data file
 
 https://raw.githubusercontent.com/zacharski/ml-class/master/data/bach.zip
