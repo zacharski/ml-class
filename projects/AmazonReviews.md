@@ -1,5 +1,9 @@
 # Amazon Musical Instrument Reviews
 
+### [General Readme on Projects](https://github.com/zacharski/ml-class/blob/master/projects/readme.md)
+
+
+
 Web commerce sites get a substantial amount of feedback from reviews users post on various websites.  It is not practical to go through all this information by hand to determine whether a user liked a particular product or not. 
 
 For our project we are going to use a dataset of Amazon Musical Instrument Reviews. The main reason I selected this dataset is that it is significantly smaller than the Amazon review datasets for movies, music, and books.  This dataset has a bit over 221,000 reviews. The columns in the dataset are
