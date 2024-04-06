@@ -41,6 +41,4 @@ When you finish and push your changes, add me as a contributor so I have access 
 
 ![](http://zacharski.org/files/courses/cs350/github3.png)
 
-When you have completed this task submit a link to your github repository by filling out our [Github Repository information form]([Cap4770 Intro to Data Mining](https://docs.google.com/forms/d/e/1FAIpQLSdS5dh7HUnb9N_z7e3p23R3nhW47g-mJcU7b61CXChr9S1OiA/viewform))
-
-
+When you have completed this task submit a link to your github repository by filling out the [Student information form](https://forms.gle/xQR1ReMsosaaEjt19)

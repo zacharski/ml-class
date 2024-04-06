@@ -2,7 +2,7 @@
 
 #### Submitting your code
 
-You should save your completed code to your github repository and notify me by [filling our this form](https://docs.google.com/forms/d/e/1FAIpQLSe8oVzj1af1h86dwvqF8Qha_Yw0B2E81m77ZxwjZUYH00BowA/viewform?usp=sf_link)
+You should save your completed code to your github repository and notify me by [filling our this form]((https://forms.gle/Dcq3RVBLg23yVvqL7)
 
 ## 
 

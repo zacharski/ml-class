@@ -4,15 +4,15 @@
 
 #### essentials
 
-| \#  | Resource                                                                                                                                   |
-| ---:|:------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                               |
-| 2   | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                              |
-| 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)                   |
-| 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                                           |
-| 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/10qxMR03-hDXsa3uM-JQyaMmnUIIDDC1K-zHJYcQjKOk/edit?usp=sharing)             |
-| 6   | the [FIU Deep Learning Slack workspace](https://fiudeeplearning2023.slack.com)                                                             |
-| 7   | The [Lab Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe8oVzj1af1h86dwvqF8Qha_Yw0B2E81m77ZxwjZUYH00BowA/viewform?usp=sf_link) |
+| \#  | Resource                                                                                                                       |
+| ---:|:------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [The current version of the syllabus](https://github.com/zacharski/ml-class)                                                   |
+| 2   | [Welcome video](https://youtu.be/CT06ST4xLUk)                                                                                  |
+| 3   | [What should you do the first week of the course](https://github.com/zacharski/ml-class/blob/master/jumpstart/readme.md)       |
+| 4   | Instructor: Ron Zacharski, ron.zacharski@gmail.com, 575.680.4041                                                               |
+| 5   | [Experience Point Sheet](https://docs.google.com/spreadsheets/d/1XTvJRHlfPkkeF9zhm8jfsjOLorHVi1OgePsH7h468bk/edit?usp=sharing) |
+| 6   | the [FIU Deep Learning Slack workspace](https://fiudeeplearning2023.slack.com)                                                 |
+| 7   | The [Lab Submission Form](https://forms.gle/Dcq3RVBLg23yVvqL7)                                                                 |
 
 ## 
 
@@ -46,9 +46,9 @@ The advantages of this approach is that it allows you great flexibility in when 
 
 ### Instructor availability
 
-**Slack Office Hours: Tuesdays and Wednesdays 11-2pm ET**
+**Slack Office Hours: Monday 11-2pm ET and Tuesday 4-5:30pm ET**
 
-I will be sitting at my laptop on the Slack channel Tuesdays and Wednesdays from 11am until 2pm ET. This means that if you message me, I will respond within 5 minutes unless I am helping another student. My next level of availability is Tuesdays and Wednesdays from 2pm to 4pm and Thursdays from 11am until 2pm ET. My average response time during that period is 30 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
+I will be sitting at my laptop on the Slack channel on the days and times listed above. This means that if you Slack message me, I will respond within 5 minutes unless I am helping another student. Do not hesitate to Slack message me at other times during normal business hours and early evening. Most of the time I can answer you within 30 minutes. Feel free to message me outside of those times but my response delay might be significant. Often I turn off Slack notifications at midnight. There may be times during Friday through Sunday when I don't have cell or wifi coverage and I will not be able to receive your message. Also, there may other times when I don't have cell coverage. In those cases I will post a message on Slack beforehand. The reason for this is that while I am based in Santa Fe I often go off exploring the Southwest in my van and sometimes lose cell phone coverage. If your questions require something that can be better addressed over Zoom, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
 
 The above hours may be subject to change if other times benefit more students. These changes will be announced in the Slack channel.
 
@@ -159,24 +159,20 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 
 ## Week-by-Week
 
-| Week | Date   | Unit        | Topics                                              | labs and projects                 |
-| ----:|:------ |:----------- |:--------------------------------------------------- |:--------------------------------- |
-| 1    | 9 Jan  | Intro       | Intro to class & Quickstart to ML                   | Quickstart lab                    |
-| 2    | 16 Jan | basics      | Numpy, Pandas                                       | Numpy & Pandas labs               |
-| 3    | 23 Jan | basics      | kNN sklearn                                         | sklearn lab                       |
-| 4    | 30 Jan | basics      | entropy and decision trees                          | decision tree lab                 |
-| 5    | 6 Feb  | basics      | one-hot encoding, cross-validation, hyperparameters | working with data lab             |
-| 6    | 13 Feb | basics      | Regression & Clustering                             | regression and clustering labs    |
-| 7    | 20 Feb | XGBoost     | Intro to boosting, bagging & pasting                | bagging and pasting lab           |
-| 8    | 27 Feb | XGBoost     | random forest, patches, xgboost                     | XGBoost lab First Project         |
-| 9    | 6 Mar  | DNN         | our first neural network - classifying images       | a first look at deep learning lab |
-| 10   | 13 Mar | DNN         | Neural Network anatomy & classification             | --                                |
-| 11   | 20 Mar | DNN         | Introduction to Convolutional Neural Networks (CNN) | CNN lab                           |
-| 12   | 27 Mar | DNN         | project work                                        | Projects 2 & 3                    |
-| 13   | 3 Apr  | DNN         | CNNs and text classification                        | NLP & Embeddings lab              |
-| 14   | 10 Apr | DNN         | CNN and text classification cont'd                  | Amazon Reviews Project            |
-| 15   | 17 Apr | RL          | Generative AI                                       | GAN lab                           |
-| 16   | 24 Apr | FINALS WEEK | FINISH PROJECTS                                     |                                   |
+| Week | Date    | Unit    | Topics                                                                                    | labs and projects                               |
+| ----:|:------- |:------- |:----------------------------------------------------------------------------------------- |:----------------------------------------------- |
+| 1    | 6 May   | Intro   | Intro to class & Quickstart to ML                                                         | Quickstart lab                                  |
+| 2    | 13 May  | basics  | Numpy, Pandas                                                                             | Numpy & Pandas labs                             |
+| 3    | 20 May  | basics  | kNN sklearn                                                                               | sklearn lab                                     |
+| 4    | 27 May  | basics  | entropy and decision trees                                                                | decision tree lab                               |
+| 5    | 3 June  | basics  | one-hot encoding, cross-validation, hyperparameters                                       | working with data lab                           |
+| 6    | 10 June | basics  | Regression & Clustering                                                                   | regression and clustering labs                  |
+| 7    | 17 June | XGBoost | Intro to boosting, bagging & pasting                                                      | bagging and pasting lab                         |
+| 8    | 24 June | XGBoost | random forest, patches, xgboost                                                           | XGBoost lab First Project                       |
+| 9    | 1 July  | DNN     | Neural Network anatomy & classification<br/>our first neural network - classifying images | a first look at deep learning lab               |
+| 10   | 8 July  | DNN     | Introduction to Convolutional Neural Networks (CNN)                                       | CNN lab                                         |
+| 11   | 15 July | DNN     | CNNs and test classification                                                              | NLP & Embeddings lab<br/>Amazon Reviews Project |
+| 12   | 22 July | DNN     | project work                                                                              | Projects 2 & 3                                  |
 
 Deadlines will be announced in the Slack channel.
 
