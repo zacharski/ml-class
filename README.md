@@ -1,6 +1,6 @@
 # CAP4770 Introduction to Data Mining
 
-## Spring 2023
+## Summer 2024
 
 #### essentials
 
