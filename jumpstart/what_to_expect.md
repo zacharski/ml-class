@@ -4,7 +4,7 @@ First, hello, and welcome to the class.
 
 During the first class session of a normal semester I usually say something like "I think you will find this course challenging but a lot of fun." The 'challenging' part will be doubly true this semester as we are adjusting to an online course. But I am hoping we don't lose sight of the 'fun' aspect of the course.
 
-The first time I taught an online course was over 25 years ago when I taught Introduction to Computational Linguistics for the Linguistics Department at the University of Minnesota while I was working in a computational linguistics lab and living in New Mexico. This semester I still am living in New Mexico (Santa Fe) and will help guide you through the course material wherever you are situated whether it is in Virginia or elsewhere.  (Keep in mind that I am on Mountain TIme!)
+The first time I taught an online course was over 25 years ago when I taught Introduction to Computational Linguistics for the Linguistics Department at the University of Minnesota while I was working in a computational linguistics lab and living in New Mexico. This semester I still am living in New Mexico (Santa Fe) and will help guide you through the course material wherever you are situated whether it is in Florida, Virginia or elsewhere.  (Keep in mind that I am on Mountain TIme!)
 
 ## Videos and Interactive notebooks and projects
 
@@ -47,12 +47,8 @@ You can lose XP by not checking in.
 
 - first and second missed check-in: no loss of points
 - third missed check-in - 10xp
-- fourth missed check-in - 40xp
-- fifth -150xp
-- sixth: -1000xp
-
-
+- fourth missed check-in - 25xp
+- fifth -100xp
+- sixth: -250xp
 
 If I see you are stuck on a particular problem, I will contact you.
-
-
