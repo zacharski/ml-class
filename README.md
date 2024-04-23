@@ -90,8 +90,6 @@ Students should be able to
 
 ---
 
-
-
 ## Prerequisites
 
 Prerequisite Course: COP 3530 Data Structures
@@ -110,7 +108,7 @@ The advantages of this approach is that it allows you great flexibility in when 
 
 **Slack Office Hours: Monday 1-2pm ET and Tuesday 4-5:30pm ET**
 
-I will be sitting at my laptop on the Slack channel on the days and times listed above. This means that if you Slack message me, I will respond within 5 minutes unless I am helping another student. Do not hesitate to message me at other times during normal business hours and early evening. Most of the time I can answer you within 30 minutes. Feel free to message me outside of those times but my response delay might be significant.  Also, there may other times when I don't have cell ir wifi coverage. In those cases I will post a message on Slack beforehand. 
+I will be sitting at my laptop on the Slack channel on the days and times listed above. This means that if you Slack message me, I will respond within 5 minutes unless I am helping another student. Do not hesitate to message me at other times during normal business hours and early evening. Most of the time I can answer you within 30 minutes. Feel free to message me outside of those times but my response delay might be significant.  Also, there may other times when I don't have cell or wifi coverage. In those cases I will post a message on Slack beforehand. 
 
  If your questions require something that can be better addressed over a video call, we can arrange a meeting time through Slack. I also encourage those in class to help others (see my honor code policy below)
 
@@ -182,8 +180,6 @@ Again, the class is work-at-your-own pace, but I provide a suggested schedule be
 | 10   | 8 July  | DNN     | Introduction to Convolutional Neural Networks (CNN)                                       | CNN lab                                         |
 | 11   | 15 July | DNN     | CNNs and test classification                                                              | NLP & Embeddings lab<br/>Amazon Reviews Project |
 | 12   | 22 July | DNN     | project work                                                                              | Projects 2 & 3                                  |
-
-
 
 ## **Required materials**
 
@@ -265,15 +261,13 @@ The general policy for any computer science class is
 
 2. **Do not share your code with other students**
 
-3. **Do not post your code or class materials to any publicaly-available website.** 
+3. **Do not post your code or class materials to any publicly-available website.** 
 
 4. **Explicitly cite any sources you use.**
 
 5. **Do not look at solutions from previous semesters.** 
 
 6. **Be prepared to explain every single line of code you submit demonstrating your thought process behind it.** 
-   
-   
 
 **Common Sense**
 
