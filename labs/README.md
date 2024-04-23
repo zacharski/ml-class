@@ -13,7 +13,7 @@ You should save your completed code to your github repository and notify me by [
 | 1     | [Quickstart](01_Quickstart.ipynb)                 |
 | 2     | [Numpy](02_Numpy.ipynb)                           |
 | 3     | [Pandas](03_Pandas.ipynb)                         |
-| 4     | [kNN and SciKit-Learn](04_Intro_To_SKLearn.ipynb) |
+| 4     | [kNN and SciKit-Learn](04_Intro_to_SKLearn.ipynb) |
 | 5     | [Decision Trees](05_Decision_Trees.ipynb)         |
 | 6     | [Working With Data](06_Working_With_Data.ipynb)   |
 | 7     | [Regression](07_Regression.ipynb)                 |
@@ -24,7 +24,7 @@ You should save your completed code to your github repository and notify me by [
 | Order | Lesson                                              |
 | -----:|:--------------------------------------------------- |
 | 9     | [Bagging and Pasting](09_Bagging_and_Pasting.ipynb) |
-| 10    | [XGBoost](10_XGBoostLab.ipynb)                      |
+| 10    | [XGBoost](10_XGBoost.ipynb)                         |
 
 ## Deep Learning
 
