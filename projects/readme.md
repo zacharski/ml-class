@@ -39,12 +39,12 @@ Projects are intentionally vague. I want you to engage your brain and not simply
 
 You should save your completed Python notebook to your github repository and notify me by [filling our this form](https://forms.gle/Dcq3RVBLg23yVvqL7)
 
-| Order | Lesson                                                |
-| -----:|:----------------------------------------------------- |
-| 1     | [Bach Chorales](Bach.md)                              |
-| 2     | [Crate and Barrel](Crate-and-Barrel.md)               |
-| 3     | [Image Classification](imageclassification.md)        |
-| 4     | [Amazon Musical Instrument Reviews](AmazonReviews.md) |
+| Order | Lesson                                                    |
+| -----:|:--------------------------------------------------------- |
+| 1     | [Bach Chorales](01_Bach.md)                               |
+| 2     | [Crate and Barrel](02_Crate_and_Barrel.md)                |
+| 3     | [Image Classification](03_Image_Classification.md)        |
+| 4     | [Amazon Musical Instrument Reviews](04_Amazon_Reviews.md) |
 
 #### XP Grading Rubric
 
